@@ -1,15 +1,13 @@
 .problemBox {
-  box-sizing: border-box;
-  border-radius: 0.5rem;
-  display: inline-flex;
+  display: flex;
+  flex-direction: column;
   font-family: Helvetica;
   font-size: min(1.5vw, 18px);
   align-items: center;
   align-content: center;
-  justify-content: center;
-  height: auto;
-  flex-grow: 1;
-  padding: 0.1rem 0.2rem 0.1rem 0.2rem;
+  height: 100%;
+  border-right: 1px solid #aaaaaa;
+  border-left: 1px solid #aaaaaa;
 }
 
 .problemBox-FirstAccepted {
@@ -43,7 +41,13 @@
 }
 
 .problemBox-NoAttempted {
-  color: #8a919b;
-  background-color: #282828;
-  border: 2px solid transparent;
+  color: black;
+  font-weight: 600;
+  height: 100%;
+  width: 100%;
+}
+
+.try {
+  font-weight: 300;
+  font-size: min(1.3vw, 14px);
 }

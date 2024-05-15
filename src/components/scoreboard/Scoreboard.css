@@ -7,9 +7,13 @@
 
 .score-FlipMove {
   order: 1;
+  margin-left: 0.2rem;
+  margin-right: 0.2rem;
   position: relative;
   height: auto;
   overflow-y: scroll;
+  border: 2px solid black;
+  border-top: none;
 }
 
 .scoreboardTableProblemRowFirstChild > :first-child {
@@ -17,11 +21,11 @@
 }
 
 .scoreboardTableGrayRow {
-  background-color: #19191a;
+  background-color: #ffffff;
 }
 
 .scoreboardTableBlackRow {
-  background-color: #0e0e0f;
+  background-color: #dddddd;
 }
 
 .scoreboardTableSelectedRow {

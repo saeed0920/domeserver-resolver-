@@ -3,11 +3,16 @@
   z-index: 100;
   width: 100%;
   height: auto;
-  background-color: #000000;
+}
+
+.headerContainer_header {
+  display: flex;
+  justify-content: space-between;
+  padding: 0.5rem 1rem;
 }
 
 .contestTitle {
-  color: #ffffff;
+  color: #000000;
   width: 100%;
   display: inline-flex;
   align-items: center;
@@ -18,7 +23,14 @@
   font-size: min(4vw, 32px);
   padding: 0.5rem 0 0.5rem 0;
   height: min-content;
-  background-color: #000000;
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+.contestTitle_sub {
+  font-size: min(3vw, 22px);
+  font-weight: 500;
 }
 
 .columTitles {
@@ -26,67 +38,155 @@
   width: auto;
   margin-left: 0.2rem;
   margin-right: 0.2rem;
+  display: grid;
+  grid-template-columns: 1fr 4fr 1fr 1fr 11fr 0.5fr;
+  gap: 0.2rem;
+  border: 2px solid #000;
+}
+
+.columTitles div {
+  border-right: 1px solid #aaaaaa;
   padding-top: 0.2rem;
   padding-bottom: 0.2rem;
-  padding-left: 0.4rem;
-  padding-right: 0.4rem;
-  display: flex;
-  flex-direction: row;
-  flex-wrap: nowrap;
+  padding-left: 0.2rem;
+  padding-right: 0.2rem;
+  display: grid;
   align-items: center;
-  justify-content: space-around;
-  gap: 0.3rem;
-  border-bottom: 2px solid white;
-  background-color: #000000;
+  text-align: center;
+}
+.columTitles div:last-child {
+  border-right: none;
+  padding-top: 0.2rem;
+  padding-bottom: 0.2rem;
 }
 
 .columTitles-Rank {
   order: 0;
-  width: 3%;
-  min-width: 3%;
-  max-width: 3%;
-  color: white;
+  color: black;
+  font-weight: 600;
   font-family: Helvetica;
   font-size: min(2.8vw, 18px);
-}
-
-.columTitles-Photo {
-  order: 1;
-  width: 5%;
-  min-width: 5%;
-  max-width: 5%;
-  height: 0.5rem;
-  color: white;
 }
 
 .columTitles-TeamName {
   order: 2;
-  width: 84%;
-  min-width: 84%;
-  max-width: 84%;
-  color: white;
+  color: black;
+  font-weight: 600;
+  font-size: min(2.8vw, 18px);
+  text-align: start !important;
+  font-family: Helvetica;
+}
+
+.columTitles-solved {
+  order: 2;
+  color: black;
+  font-weight: 600;
   font-size: min(2.8vw, 18px);
   font-family: Helvetica;
 }
 
-.columTitles-Problems {
-  order: 3;
-  width: 4%;
-  min-width: 4%;
-  max-width: 4%;
-  color: white;
-  text-align: right;
+.columTitles-questions {
+  padding: 0 !important;
+  order: 2;
+  display: grid !important;
+  grid-template-columns: repeat(9, 1fr) !important;
+  color: black;
+  font-weight: 600;
+  font-size: min(2.8vw, 18px);
   font-family: Helvetica;
-  font-size: min(2vw, 12px);
+}
+.columTitles-questions .fix {
+  display: grid;
+  height: 100%;
+  width: 100%;
+  place-items: center;
+  border-right: 1px solid #aaaaaa;
+  padding-right: 0.2rem;
+  padding-left: 0.2rem;
+}
+.columTitles-questions span:last-child {
+  border-right: none;
 }
 
-.columTitles-Penalty {
-  order: 4;
-  width: 4%;
-  min-width: 4%;
-  max-width: 4%;
-  color: white;
-  text-align: right;
+.columTitles-time {
+  order: 2;
+  color: black;
+  font-weight: 600;
+  font-size: min(2.8vw, 18px);
   font-family: Helvetica;
-  font-size: min(2vw, 12px);
+}
+
+.columTitles-solvAttm {
+  order: 2;
+  color: black;
+  font-weight: 600;
+  font-size: min(2.8vw, 18px);
+  font-family: Helvetica;
+}
+
+span.balloon {
+  display: block !important;
+  width: 27px !important;
+  height: 40px !important;
+  text-align: center !important;
+  line-height: 30px !important;
+  background: url("../../assets/img/balloon.png") -1px -1px no-repeat #aaa;
+}
+
+.color-A {
+  background-color: #a349a4 !important;
+  color: black;
+}
+
+.color-B {
+  background-color: #0a0ac1 !important;
+  color: white;
+}
+
+.color-C {
+  background-color: #00ae00 !important;
+  color: black;
+}
+
+.color-D {
+  background-color: #000000 !important;
+  color: white;
+}
+
+.color-E {
+  background-color: #ee8af8 !important;
+  color: white;
+}
+
+.color-F {
+  background-color: #ffa500 !important;
+  color: black;
+}
+
+.color-G {
+  background-color: #f9f905 !important;
+  color: black;
+}
+
+.color-H {
+  background-color: #eb3324 !important;
+  color: black;
+}
+
+.color-I {
+  background-color: #ffffff !important;
+  color: black;
+}
+
+.color-J {
+  background-color: #94599e !important;
+  color: #fff;
+}
+
+.color-K {
+  background-color: #a7571b !important;
+}
+
+.color-L {
+  background-color: #0d9aa5 !important;
 }

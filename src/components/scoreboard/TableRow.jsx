@@ -227,24 +227,20 @@ class TableRow extends Component {
     return (
       <div className={"tableRow " + classNameForEachRow} id={this.props.team.id}>
         {/*Rank*/}
-        <span className="tableRow-Rank">{this.props.team.position}</span>
-        {/*Photo*/}
-        <img className="tableRow-Picture" src={this.getImageForTeam(this.props.team.id)} alt="" />
+        <div className="tableRow-Rank">{this.props.team.position}</div>
         {/*Name+Problems*/}
-        <div className="tableRow-TeamData">
-          {/*ContestantName*/}
-          <span className="tableRox-ContestantName">{this.props.team.name}</span>
+        <div className="tableRox-ContestantName">{this.props.team.name}</div>
+        <div className="tableRox-solved">{this.props.team.id}</div>
+        <div className="tableRox-time">{this.props.team.id}</div>
+
+        <div className="tableRox-Problems">
           {/*Problem Boxes*/}
-          <div className="tableRox-Problems">
-            {problemColumns.map(problemData => {
-              return <ProblemBox {...problemData} />;
-            })}
-          </div>
+          {problemColumns.map(problemData => {
+            return <ProblemBox {...problemData} />;
+          })}
         </div>
-        {/*ProblemsSolved*/}
-        <span className="tableRow-ResolvedProblems">{this.props.team.solved}</span>
-        {/*Penalty*/}
-        <span className="tableRow-Penalty">{this.props.team.penalty}</span>
+
+        <div className="tableRox-sovAttm">{this.props.team.id}</div>
       </div>
     );
   }
