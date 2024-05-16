@@ -2,52 +2,50 @@
   display: flex;
   flex-direction: column;
   font-family: Helvetica;
-  font-size: min(1.5vw, 18px);
+  font-size: 18px;
   align-items: center;
-  align-content: center;
-  height: 100%;
   border-right: 1px solid #aaaaaa;
-  border-left: 1px solid #aaaaaa;
+  font-weight: 300;
+  padding: 0.5rem 0;
+  text-align: center;
+  transition: all 1.2s;
 }
 
+.problemBox:last-child {
+  border-right: none;
+}
 .problemBox-FirstAccepted {
-  color: white;
-  background-color: #004400;
-  border: 2px solid #00de00;
+  color: black;
+  background-color: #0b0;
 }
 
 .problemBox-Accepted {
-  color: white;
-  background-color: #009c00;
-  border: 2px solid transparent;
+  color: black;
+  background-color: #8f8;
 }
 
 .problemBox-Resolving {
-  color: white;
-  background-color: #cbb000;
-  border: 2px solid #ffff08;
+  color: black;
+  background-color: #74b9ff;
+  /* font-size: 1rem; */
+  font-weight: 600;
 }
 
 .problemBox-Pending {
-  color: white;
-  background-color: #cbb000;
-  border: 2px solid transparent;
+  color: black;
+  background-color: #ff8;
 }
 
 .problemBox-WrongAnswer {
-  color: white;
-  background-color: #ad0b0b;
-  border: 2px solid transparent;
+  color: black;
+  background-color: #e74c3c;
 }
 
 .problemBox-NoAttempted {
   color: black;
-  font-weight: 600;
-  height: 100%;
-  width: 100%;
 }
 
 .try {
   font-weight: 300;
-  font-size: min(1.3vw, 14px);
+  font-size: 14px;
 }

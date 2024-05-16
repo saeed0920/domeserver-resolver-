@@ -3,6 +3,7 @@
   display: flex;
   flex-direction: column;
   overflow-y: hidden;
+  padding: 1rem 0.6rem;
 }
 
 .score-FlipMove {
@@ -25,11 +26,12 @@
 }
 
 .scoreboardTableBlackRow {
-  background-color: #dddddd;
+  background-color: #f0f0f0;
 }
 
 .scoreboardTableSelectedRow {
-  background-color: #2873ed;
+  /* background-color: #2873ed; */
+  /* border-size: 3px; */
 }
 
 .scoreboardTableSelectedRowFinished {

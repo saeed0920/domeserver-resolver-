@@ -211,7 +211,6 @@ class TableRow extends Component {
       return {
         key: problem.index,
         index: problem.index,
-        width: widthPercentage,
         problemStatus: verdict,
         displayText: textToShowInProblem,
       };
@@ -234,7 +233,6 @@ class TableRow extends Component {
         <div className="tableRox-time">{this.props.team.id}</div>
 
         <div className="tableRox-Problems">
-          {/*Problem Boxes*/}
           {problemColumns.map(problemData => {
             return <ProblemBox {...problemData} />;
           })}

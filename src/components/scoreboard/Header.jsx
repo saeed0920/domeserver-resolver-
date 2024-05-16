@@ -5,10 +5,13 @@ const Header = ({ title }) => {
   return (
     <div className="headerContainer">
       <div className="headerContainer_header">
+        <img src="/src/assets/img/icpc.png" />
         <div className="contestTitle">
-          ICPC 2024 South khorasan Region – Birjand Site
+          ICPC 2024
           <span className="contestTitle_sub">Birjand University of Technology, Birjand, Iran</span>
+          <span>Fri May 19 14:07:39 IRST 2023</span>
         </div>
+        <img src="/src/assets/img/Untitled-1_015003.png" />
       </div>
       <div className="columTitles">
         <div className="columTitles-Rank">
