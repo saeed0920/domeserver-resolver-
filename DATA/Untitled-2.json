@@ -1,0 +1,65 @@
+[
+  {
+    "language_id": "cpp",
+    "time": "2024-05-15T16:00:39.420+03:30",
+    "contest_time": "0:43:16.420",
+    "team_id": "12",
+    "problem_id": "1",
+    "id": "1",
+    "external_id": null
+  },
+  {
+    "language_id": "cpp",
+    "time": "2024-05-15T16:22:16.924+03:30",
+    "contest_time": "1:04:53.924",
+    "team_id": "12",
+    "problem_id": "1",
+    "id": "2",
+    "external_id": null
+  },
+  {
+    "language_id": "cpp",
+    "time": "2024-05-15T16:27:11.961+03:30",
+    "contest_time": "1:09:48.961",
+    "team_id": "12",
+    "problem_id": "3",
+    "id": "3",
+    "external_id": null
+  },
+  {
+    "language_id": "cpp",
+    "time": "2024-05-15T16:28:00.441+03:30",
+    "contest_time": "1:10:37.441",
+    "team_id": "13",
+    "problem_id": "1",
+    "id": "4",
+    "external_id": null
+  },
+  {
+    "language_id": "cpp",
+    "time": "2024-05-15T16:30:08.376+03:30",
+    "contest_time": "1:12:45.376",
+    "team_id": "13",
+    "problem_id": "1",
+    "id": "5",
+    "external_id": null
+  },
+  {
+    "language_id": "cpp",
+    "time": "2024-05-15T16:45:07.700+03:30",
+    "contest_time": "1:27:44.700",
+    "team_id": "12",
+    "problem_id": "2",
+    "id": "6",
+    "external_id": null
+  },
+  {
+    "language_id": "cpp",
+    "time": "2024-05-15T16:46:39.311+03:30",
+    "contest_time": "1:29:16.311",
+    "team_id": "12",
+    "problem_id": "2",
+    "id": "7",
+    "external_id": null
+  }
+]

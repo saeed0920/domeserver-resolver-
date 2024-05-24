@@ -8,8 +8,8 @@ const Header = ({ title }) => {
         <img src="/src/assets/img/icpc.png" />
         <div className="contestTitle">
           ICPC 2024
-          <span className="contestTitle_sub">Birjand University of Technology, Birjand, Iran</span>
-          <span>Fri May 19 14:07:39 IRST 2023</span>
+          <span className="contestTitle_sub">Birjand University, Birjand, Iran</span>
+          <span>Fri May 17 2024</span>
         </div>
         <img src="/src/assets/img/Untitled-1_015003.png" />
       </div>
@@ -53,6 +53,9 @@ const Header = ({ title }) => {
           </span>
           <span className="fix">
             <span className="balloon color-I">I</span>
+          </span>
+          <span className="fix">
+            <span className="balloon color-J">J</span>
           </span>
         </div>
         <div className="columTitles-solvAttm">

@@ -1,6 +1,6 @@
 # neoSaris - ICPC Standings Resolver
 
-![Example image of neoSaris](public/neoSarisExample.png)
+![Example image of neoSaris](public/scoreboard.jpg)
 
 The code of this repository contains a react app that can be used to simulate what happens in the frozen time during a competitive programming competition with the ICPC standard rules.
 
@@ -192,3 +192,4 @@ This project is open for contributions, currently there's some goals planned:
 - [ ] Implement (F)ast Submission key command
 - [ ] Implement (A)utomatic Reveal key command
 - [ ] Support IOI-like contests (partial scoring)
+- [x] Convert DomeServer API Data to NeoSaris JSON

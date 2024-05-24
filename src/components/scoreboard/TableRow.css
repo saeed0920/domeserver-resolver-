@@ -45,7 +45,7 @@
 .tableRox-Problems {
   padding: none;
   display: grid;
-  grid-template-columns: repeat(9, 1fr) !important;
+  grid-template-columns: repeat(10, 1fr) !important;
   flex-direction: row;
   justify-content: space-around;
 }

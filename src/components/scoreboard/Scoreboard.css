@@ -22,18 +22,23 @@
 }
 
 .scoreboardTableGrayRow {
+  transition: all 0.5s;
   background-color: #ffffff;
 }
 
 .scoreboardTableBlackRow {
+  transition: all 0.5s;
   background-color: #f0f0f0;
 }
 
 .scoreboardTableSelectedRow {
   /* background-color: #2873ed; */
   /* border-size: 3px; */
+  font-weight: 700;
 }
 
 .scoreboardTableSelectedRowFinished {
-  background-color: #255eba;
+  // background-color: ;
+  border-color: #255eba;
+  font-weight: 700;
 }

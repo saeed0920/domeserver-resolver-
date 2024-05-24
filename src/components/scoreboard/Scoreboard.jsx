@@ -15,6 +15,9 @@ class Scoreboard extends Component {
           submissionsData.contestMetadata.frozenTimeDuration
       ) {
         let result = {};
+        result.num_judged = submission.num_judged;
+        result.solved = submission.num_solved;
+        result.total_time = submission.total_time;
         result.contestantName = submission.contestantName;
         result.timeSubmitted = submission.timeSubmitted;
         result.verdict = submission.verdict;
@@ -38,6 +41,7 @@ class Scoreboard extends Component {
         result.contestantName = submission.contestantName;
         result.timeSubmitted = submission.timeSubmitted;
         result.verdict = submission.verdict;
+        result.num_judged = submission.num_judged;
         result.problemIndex = submission.problemIndex;
         if (submissionsData.verdicts.wrongAnswerWithoutPenalty.includes(result.verdict) === false) {
           submissionsOnFrozen.push(result);
@@ -72,7 +76,6 @@ class Scoreboard extends Component {
     for (let i = 0; i < this.state.numberOfProblems; i++) {
       problemHasBeenSolved.push(0);
     }
-
     for (let h = 0; h < submissions.length; h++) {
       let submission = submissions[h];
       //Wrong Answer without penalty
@@ -210,6 +213,7 @@ class Scoreboard extends Component {
       }
 
       let result = {};
+      result.total_time = contestant.total_time;
       result.position = 0;
       result.name = contestant.name;
       result.id = contestant.id;
@@ -277,11 +281,13 @@ class Scoreboard extends Component {
           classNameForThisRow += " scoreboardTableSelectedRow";
         }
       }
+      // !!!!!!!
       return (
         <TableRow
           key={team.id}
           view={this.state.view}
           index={i}
+          submissionData={this.props.submissionData}
           team={team}
           numberOfProblems={this.state.numberOfProblems}
           problems={this.props.submissionsData.problems}

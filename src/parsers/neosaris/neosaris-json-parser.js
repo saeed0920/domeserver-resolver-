@@ -19,6 +19,8 @@ const Data = z.object({
       name: z.string(),
       school: z.string().optional(),
       iconName: z.string().optional(),
+      num_solved: z.number(),
+      total_time: z.number(),
     })
   ),
   verdicts: z.object({

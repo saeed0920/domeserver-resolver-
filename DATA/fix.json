@@ -1,0 +1,3529 @@
+{
+  "contestMetadata": {
+    "duration": 300,
+    "frozenTimeDuration": 120,
+    "name": "ICPC",
+    "type": "ICPC"
+  },
+  "problems": [
+    {
+      "index": "A"
+    },
+    {
+      "index": "B"
+    },
+    {
+      "index": "C"
+    },
+    {
+      "index": "D"
+    },
+    {
+      "index": "E"
+    },
+    {
+      "index": "F"
+    },
+    {
+      "index": "G"
+    },
+    {
+      "index": "H"
+    },
+    {
+      "index": "I"
+    },
+    {
+      "index": "J"
+    }
+  ],
+  "contestants": [
+    {
+      "id": 5,
+      "name": "Java Drinkers",
+      "num_solved": 0,
+      "total_time": 0
+    },
+    {
+      "id": 6,
+      "name": "CAPTCHA",
+      "num_solved": 2,
+      "total_time": 350
+    },
+    {
+      "id": 7,
+      "name": "NoN Barbary",
+      "num_solved": 4,
+      "total_time": 139
+    },
+    {
+      "id": 8,
+      "name": "Connecting",
+      "num_solved": 4,
+      "total_time": 273
+    },
+    {
+      "id": 9,
+      "name": "CO Cap",
+      "num_solved": 6,
+      "total_time": 1059
+    },
+    {
+      "id": 10,
+      "name": "The HeisenBug",
+      "num_solved": 6,
+      "total_time": 592
+    },
+    {
+      "id": 11,
+      "name": "Aramis",
+      "num_solved": 4,
+      "total_time": 605
+    },
+    {
+      "id": 12,
+      "name": "Gods of Py",
+      "num_solved": 6,
+      "total_time": 593
+    },
+    {
+      "id": 13,
+      "name": "Three-state Buffer",
+      "num_solved": 2,
+      "total_time": 172
+    },
+    {
+      "id": 14,
+      "name": "TechTribe",
+      "num_solved": 6,
+      "total_time": 878
+    },
+    {
+      "id": 15,
+      "name": "Stack Overflow",
+      "num_solved": 4,
+      "total_time": 463
+    },
+    {
+      "id": 16,
+      "name": "CamelCase",
+      "num_solved": 6,
+      "total_time": 720
+    },
+    {
+      "id": 17,
+      "name": "NAVI",
+      "num_solved": 4,
+      "total_time": 354
+    },
+    {
+      "id": 18,
+      "name": "Zayko",
+      "num_solved": 4,
+      "total_time": 587
+    },
+    {
+      "id": 19,
+      "name": "Pointers",
+      "num_solved": 2,
+      "total_time": 176
+    },
+    {
+      "id": 20,
+      "name": "Scatter",
+      "num_solved": 4,
+      "total_time": 226
+    },
+    {
+      "id": 21,
+      "name": "کاما پیشرو برتر",
+      "num_solved": 2,
+      "total_time": 314
+    },
+    {
+      "id": 22,
+      "name": "black star",
+      "num_solved": 3,
+      "total_time": 217
+    },
+    {
+      "id": 23,
+      "name": "MOZ",
+      "num_solved": 4,
+      "total_time": 459
+    },
+    {
+      "id": 24,
+      "name": "257.5",
+      "num_solved": 3,
+      "total_time": 450
+    },
+    {
+      "id": 25,
+      "name": "Going to the moon",
+      "num_solved": 4,
+      "total_time": 390
+    },
+    {
+      "id": 26,
+      "name": "New Folder",
+      "num_solved": 4,
+      "total_time": 279
+    },
+    {
+      "id": 27,
+      "name": "Code To infiniyu",
+      "num_solved": 3,
+      "total_time": 565
+    },
+    {
+      "id": 28,
+      "name": "Let it Happen",
+      "num_solved": 5,
+      "total_time": 342
+    },
+    {
+      "id": 29,
+      "name": "Cascavel",
+      "num_solved": 5,
+      "total_time": 399
+    },
+    {
+      "id": 30,
+      "name": "Clr",
+      "num_solved": 4,
+      "total_time": 319
+    },
+    {
+      "id": 31,
+      "name": "code ade",
+      "num_solved": 3,
+      "total_time": 517
+    },
+    {
+      "id": 32,
+      "name": "OnlyJs",
+      "num_solved": 3,
+      "total_time": 502
+    },
+    {
+      "id": 33,
+      "name": "Viva La Vida",
+      "num_solved": 4,
+      "total_time": 215
+    },
+    {
+      "id": 34,
+      "name": "hot fix",
+      "num_solved": 4,
+      "total_time": 259
+    }
+  ],
+  "verdicts": {
+    "accepted": ["Accepted"],
+    "wrongAnswerWithPenalty": ["Wrong answer"],
+    "wrongAnswerWithoutPenalty": ["Compilation error"]
+  },
+  "submissions": [
+    {
+      "team_id": "9",
+      "num_solved": 6,
+      "total_time": 1059,
+      "timeSubmitted": 23,
+      "contestantName": "CO Cap",
+      "problemIndex": "A",
+      "verdict": "Accepted",
+      "num_judged": 2
+    },
+    {
+      "team_id": "10",
+      "num_solved": 6,
+      "total_time": 592,
+      "timeSubmitted": 44,
+      "contestantName": "The HeisenBug",
+      "problemIndex": "A",
+      "verdict": "Accepted",
+      "num_judged": 3
+    },
+    {
+      "team_id": "7",
+      "num_solved": 4,
+      "total_time": 139,
+      "timeSubmitted": 4,
+      "contestantName": "NoN Barbary",
+      "problemIndex": "A",
+      "verdict": "Accepted",
+      "num_judged": 1
+    },
+    {
+      "team_id": "8",
+      "num_solved": 4,
+      "total_time": 273,
+      "timeSubmitted": 5,
+      "contestantName": "Connecting",
+      "problemIndex": "A",
+      "verdict": "Accepted",
+      "num_judged": 1
+    },
+    {
+      "team_id": "25",
+      "num_solved": 4,
+      "total_time": 390,
+      "timeSubmitted": 5,
+      "contestantName": "Going to the moon",
+      "problemIndex": "A",
+      "verdict": "Accepted",
+      "num_judged": 1
+    },
+    {
+      "team_id": "12",
+      "num_solved": 6,
+      "total_time": 593,
+      "timeSubmitted": 5,
+      "contestantName": "Gods of Py",
+      "problemIndex": "A",
+      "verdict": "Accepted",
+      "num_judged": 1
+    },
+    {
+      "team_id": "7",
+      "num_solved": 4,
+      "total_time": 139,
+      "timeSubmitted": 5,
+      "contestantName": "NoN Barbary",
+      "problemIndex": "A",
+      "verdict": "Accepted",
+      "num_judged": 1
+    },
+    {
+      "team_id": "9",
+      "num_solved": 6,
+      "total_time": 1059,
+      "timeSubmitted": 25,
+      "contestantName": "CO Cap",
+      "problemIndex": "A",
+      "verdict": "Accepted",
+      "num_judged": 2
+    },
+    {
+      "team_id": "7",
+      "num_solved": 4,
+      "total_time": 139,
+      "timeSubmitted": 5,
+      "contestantName": "NoN Barbary",
+      "problemIndex": "A",
+      "verdict": "Accepted",
+      "num_judged": 1
+    },
+    {
+      "team_id": "10",
+      "num_solved": 6,
+      "total_time": 592,
+      "timeSubmitted": 46,
+      "contestantName": "The HeisenBug",
+      "problemIndex": "A",
+      "verdict": "Accepted",
+      "num_judged": 3
+    },
+    {
+      "team_id": "28",
+      "num_solved": 5,
+      "total_time": 342,
+      "timeSubmitted": 7,
+      "contestantName": "Let it Happen",
+      "problemIndex": "A",
+      "verdict": "Accepted",
+      "num_judged": 1
+    },
+    {
+      "team_id": "14",
+      "num_solved": 6,
+      "total_time": 878,
+      "timeSubmitted": 7,
+      "contestantName": "TechTribe",
+      "problemIndex": "A",
+      "verdict": "Accepted",
+      "num_judged": 1
+    },
+    {
+      "team_id": "29",
+      "num_solved": 5,
+      "total_time": 399,
+      "timeSubmitted": 8,
+      "contestantName": "Cascavel",
+      "problemIndex": "A",
+      "verdict": "Accepted",
+      "num_judged": 1
+    },
+    {
+      "team_id": "30",
+      "num_solved": 4,
+      "total_time": 319,
+      "timeSubmitted": 8,
+      "contestantName": "Clr",
+      "problemIndex": "A",
+      "verdict": "Accepted",
+      "num_judged": 1
+    },
+    {
+      "team_id": "34",
+      "num_solved": 4,
+      "total_time": 259,
+      "timeSubmitted": 8,
+      "contestantName": "hot fix",
+      "problemIndex": "A",
+      "verdict": "Accepted",
+      "num_judged": 1
+    },
+    {
+      "team_id": "25",
+      "num_solved": 4,
+      "total_time": 390,
+      "timeSubmitted": 9,
+      "contestantName": "Going to the moon",
+      "problemIndex": "A",
+      "verdict": "Accepted",
+      "num_judged": 1
+    },
+    {
+      "team_id": "7",
+      "num_solved": 4,
+      "total_time": 139,
+      "timeSubmitted": 9,
+      "contestantName": "NoN Barbary",
+      "problemIndex": "A",
+      "verdict": "Accepted",
+      "num_judged": 1
+    },
+    {
+      "team_id": "10",
+      "num_solved": 6,
+      "total_time": 592,
+      "timeSubmitted": 49,
+      "contestantName": "The HeisenBug",
+      "problemIndex": "A",
+      "verdict": "Accepted",
+      "num_judged": 3
+    },
+    {
+      "team_id": "20",
+      "num_solved": 4,
+      "total_time": 226,
+      "timeSubmitted": 9,
+      "contestantName": "Scatter",
+      "problemIndex": "A",
+      "verdict": "Accepted",
+      "num_judged": 1
+    },
+    {
+      "team_id": "16",
+      "num_solved": 6,
+      "total_time": 720,
+      "timeSubmitted": 9,
+      "contestantName": "CamelCase",
+      "problemIndex": "A",
+      "verdict": "Accepted",
+      "num_judged": 1
+    },
+    {
+      "team_id": "25",
+      "num_solved": 4,
+      "total_time": 390,
+      "timeSubmitted": 10,
+      "contestantName": "Going to the moon",
+      "problemIndex": "A",
+      "verdict": "Accepted",
+      "num_judged": 1
+    },
+    {
+      "team_id": "33",
+      "num_solved": 4,
+      "total_time": 215,
+      "timeSubmitted": 11,
+      "contestantName": "Viva La Vida",
+      "problemIndex": "A",
+      "verdict": "Accepted",
+      "num_judged": 1
+    },
+
+    {
+      "team_id": "15",
+      "num_solved": 4,
+      "total_time": 463,
+      "timeSubmitted": 32,
+      "contestantName": "Stack Overflow",
+      "problemIndex": "A",
+      "verdict": "Accepted",
+      "num_judged": 2
+    },
+    {
+      "team_id": "5",
+      "num_solved": 0,
+      "total_time": 0,
+      "timeSubmitted": 13,
+      "contestantName": "Java Drinkers",
+      "problemIndex": "A",
+      "verdict": "Wrong answer",
+      "num_judged": 1
+    },
+    {
+      "team_id": "14",
+      "num_solved": 6,
+      "total_time": 878,
+      "timeSubmitted": 13,
+      "contestantName": "TechTribe",
+      "problemIndex": "A",
+      "verdict": "Accepted",
+      "num_judged": 1
+    },
+    {
+      "team_id": "23",
+      "num_solved": 4,
+      "total_time": 459,
+      "timeSubmitted": 13,
+      "contestantName": "MOZ",
+      "problemIndex": "A",
+      "verdict": "Accepted",
+      "num_judged": 1
+    },
+    {
+      "team_id": "28",
+      "num_solved": 5,
+      "total_time": 342,
+      "timeSubmitted": 15,
+      "contestantName": "Let it Happen",
+      "problemIndex": "B",
+      "verdict": "Accepted",
+      "num_judged": 1
+    },
+    {
+      "team_id": "22",
+      "num_solved": 3,
+      "total_time": 217,
+      "timeSubmitted": 15,
+      "contestantName": "black star",
+      "problemIndex": "A",
+      "verdict": "Accepted",
+      "num_judged": 1
+    },
+    {
+      "team_id": "31",
+      "num_solved": 3,
+      "total_time": 517,
+      "timeSubmitted": 115,
+      "contestantName": "code ade",
+      "problemIndex": "A",
+      "verdict": "Accepted",
+      "num_judged": 6
+    },
+    {
+      "team_id": "27",
+      "num_solved": 3,
+      "total_time": 565,
+      "timeSubmitted": 36,
+      "contestantName": "Code To infiniyu",
+      "problemIndex": "A",
+      "verdict": "Accepted",
+      "num_judged": 2
+    },
+    {
+      "team_id": "6",
+      "num_solved": 2,
+      "total_time": 350,
+      "timeSubmitted": 96,
+      "contestantName": "CAPTCHA",
+      "problemIndex": "A",
+      "verdict": "Accepted",
+      "num_judged": 5
+    },
+    {
+      "team_id": "9",
+      "num_solved": 6,
+      "total_time": 1059,
+      "timeSubmitted": 16,
+      "contestantName": "CO Cap",
+      "problemIndex": "B",
+      "verdict": "Accepted",
+      "num_judged": 1
+    },
+    {
+      "team_id": "17",
+      "num_solved": 4,
+      "total_time": 354,
+      "timeSubmitted": 16,
+      "contestantName": "NAVI",
+      "problemIndex": "A",
+      "verdict": "Accepted",
+      "num_judged": 1
+    },
+    {
+      "team_id": "25",
+      "num_solved": 4,
+      "total_time": 390,
+      "timeSubmitted": 16,
+      "contestantName": "Going to the moon",
+      "problemIndex": "A",
+      "verdict": "Accepted",
+      "num_judged": 1
+    },
+    {
+      "team_id": "21",
+      "num_solved": 2,
+      "total_time": 314,
+      "timeSubmitted": 16,
+      "contestantName": "کاما پیشرو برتر",
+      "problemIndex": "A",
+      "verdict": "Accepted",
+      "num_judged": 1
+    },
+    {
+      "team_id": "26",
+      "num_solved": 4,
+      "total_time": 279,
+      "timeSubmitted": 17,
+      "contestantName": "New Folder",
+      "problemIndex": "A",
+      "verdict": "Accepted",
+      "num_judged": 1
+    },
+    {
+      "team_id": "27",
+      "num_solved": 3,
+      "total_time": 565,
+      "timeSubmitted": 37,
+      "contestantName": "Code To infiniyu",
+      "problemIndex": "A",
+      "verdict": "Accepted",
+      "num_judged": 2
+    },
+    {
+      "team_id": "31",
+      "num_solved": 3,
+      "total_time": 517,
+      "timeSubmitted": 119,
+      "contestantName": "code ade",
+      "problemIndex": "A",
+      "verdict": "Accepted",
+      "num_judged": 6
+    },
+    {
+      "team_id": "29",
+      "num_solved": 5,
+      "total_time": 399,
+      "timeSubmitted": 20,
+      "contestantName": "Cascavel",
+      "problemIndex": "B",
+      "verdict": "Accepted",
+      "num_judged": 1
+    },
+    {
+      "team_id": "9",
+      "num_solved": 6,
+      "total_time": 1059,
+      "timeSubmitted": 20,
+      "contestantName": "CO Cap",
+      "problemIndex": "I",
+      "verdict": "Accepted",
+      "num_judged": 1
+    },
+    {
+      "team_id": "7",
+      "num_solved": 4,
+      "total_time": 139,
+      "timeSubmitted": 20,
+      "contestantName": "NoN Barbary",
+      "problemIndex": "B",
+      "verdict": "Accepted",
+      "num_judged": 1
+    },
+    {
+      "team_id": "12",
+      "num_solved": 6,
+      "total_time": 593,
+      "timeSubmitted": 21,
+      "contestantName": "Gods of Py",
+      "problemIndex": "C",
+      "verdict": "Accepted",
+      "num_judged": 1
+    },
+    {
+      "team_id": "6",
+      "num_solved": 2,
+      "total_time": 350,
+      "timeSubmitted": 101,
+      "contestantName": "CAPTCHA",
+      "problemIndex": "A",
+      "verdict": "Accepted",
+      "num_judged": 5
+    },
+    {
+      "team_id": "17",
+      "num_solved": 4,
+      "total_time": 354,
+      "timeSubmitted": 21,
+      "contestantName": "NAVI",
+      "problemIndex": "A",
+      "verdict": "Accepted",
+      "num_judged": 1
+    },
+    {
+      "team_id": "29",
+      "num_solved": 5,
+      "total_time": 399,
+      "timeSubmitted": 21,
+      "contestantName": "Cascavel",
+      "problemIndex": "B",
+      "verdict": "Accepted",
+      "num_judged": 1
+    },
+    {
+      "team_id": "11",
+      "num_solved": 4,
+      "total_time": 605,
+      "timeSubmitted": 82,
+      "contestantName": "Aramis",
+      "problemIndex": "A",
+      "verdict": "Accepted",
+      "num_judged": 4
+    },
+    {
+      "team_id": "8",
+      "num_solved": 4,
+      "total_time": 273,
+      "timeSubmitted": 22,
+      "contestantName": "Connecting",
+      "problemIndex": "C",
+      "verdict": "Accepted",
+      "num_judged": 1
+    },
+    {
+      "team_id": "21",
+      "num_solved": 2,
+      "total_time": 314,
+      "timeSubmitted": 83,
+      "contestantName": "کاما پیشرو برتر",
+      "problemIndex": "B",
+      "verdict": "Wrong answer",
+      "num_judged": 4
+    },
+    {
+      "team_id": "17",
+      "num_solved": 4,
+      "total_time": 354,
+      "timeSubmitted": 24,
+      "contestantName": "NAVI",
+      "problemIndex": "A",
+      "verdict": "Accepted",
+      "num_judged": 1
+    },
+    {
+      "team_id": "10",
+      "num_solved": 6,
+      "total_time": 592,
+      "timeSubmitted": 24,
+      "contestantName": "The HeisenBug",
+      "problemIndex": "B",
+      "verdict": "Accepted",
+      "num_judged": 1
+    },
+    {
+      "team_id": "25",
+      "num_solved": 4,
+      "total_time": 390,
+      "timeSubmitted": 185,
+      "contestantName": "Going to the moon",
+      "problemIndex": "C",
+      "verdict": "Accepted",
+      "num_judged": 9
+    },
+    {
+      "team_id": "9",
+      "num_solved": 6,
+      "total_time": 1059,
+      "timeSubmitted": 26,
+      "contestantName": "CO Cap",
+      "problemIndex": "B",
+      "verdict": "Accepted",
+      "num_judged": 1
+    },
+    {
+      "team_id": "16",
+      "num_solved": 6,
+      "total_time": 720,
+      "timeSubmitted": 26,
+      "contestantName": "CamelCase",
+      "problemIndex": "B",
+      "verdict": "Accepted",
+      "num_judged": 1
+    },
+    {
+      "team_id": "11",
+      "num_solved": 4,
+      "total_time": 605,
+      "timeSubmitted": 87,
+      "contestantName": "Aramis",
+      "problemIndex": "A",
+      "verdict": "Accepted",
+      "num_judged": 4
+    },
+
+    {
+      "team_id": "10",
+      "num_solved": 6,
+      "total_time": 592,
+      "timeSubmitted": 27,
+      "contestantName": "The HeisenBug",
+      "problemIndex": "B",
+      "verdict": "Accepted",
+      "num_judged": 1
+    },
+    {
+      "team_id": "6",
+      "num_solved": 2,
+      "total_time": 350,
+      "timeSubmitted": 107,
+      "contestantName": "CAPTCHA",
+      "problemIndex": "A",
+      "verdict": "Accepted",
+      "num_judged": 5
+    },
+    {
+      "team_id": "13",
+      "num_solved": 2,
+      "total_time": 172,
+      "timeSubmitted": 27,
+      "contestantName": "Three-state Buffer",
+      "problemIndex": "A",
+      "verdict": "Accepted",
+      "num_judged": 1
+    },
+    {
+      "team_id": "12",
+      "num_solved": 6,
+      "total_time": 593,
+      "timeSubmitted": 28,
+      "contestantName": "Gods of Py",
+      "problemIndex": "A",
+      "verdict": "Accepted",
+      "num_judged": 1
+    },
+    {
+      "team_id": "12",
+      "num_solved": 6,
+      "total_time": 593,
+      "timeSubmitted": 28,
+      "contestantName": "Gods of Py",
+      "problemIndex": "C",
+      "verdict": "Accepted",
+      "num_judged": 1
+    },
+    {
+      "team_id": "6",
+      "num_solved": 2,
+      "total_time": 350,
+      "timeSubmitted": 108,
+      "contestantName": "CAPTCHA",
+      "problemIndex": "A",
+      "verdict": "Accepted",
+      "num_judged": 5
+    },
+    {
+      "team_id": "14",
+      "num_solved": 6,
+      "total_time": 878,
+      "timeSubmitted": 28,
+      "contestantName": "TechTribe",
+      "problemIndex": "A",
+      "verdict": "Accepted",
+      "num_judged": 1
+    },
+    {
+      "team_id": "8",
+      "num_solved": 4,
+      "total_time": 273,
+      "timeSubmitted": 29,
+      "contestantName": "Connecting",
+      "problemIndex": "I",
+      "verdict": "Accepted",
+      "num_judged": 1
+    },
+    {
+      "team_id": "31",
+      "num_solved": 3,
+      "total_time": 517,
+      "timeSubmitted": 130,
+      "contestantName": "code ade",
+      "problemIndex": "A",
+      "verdict": "Accepted",
+      "num_judged": 6
+    },
+    {
+      "team_id": "5",
+      "num_solved": 0,
+      "total_time": 0,
+      "timeSubmitted": 90,
+      "contestantName": "Java Drinkers",
+      "problemIndex": "B",
+      "verdict": "Accepted",
+      "num_judged": 1
+    },
+    {
+      "team_id": "16",
+      "num_solved": 6,
+      "total_time": 720,
+      "timeSubmitted": 30,
+      "contestantName": "CamelCase",
+      "problemIndex": "A",
+      "verdict": "Accepted",
+      "num_judged": 1
+    },
+    {
+      "team_id": "11",
+      "num_solved": 4,
+      "total_time": 605,
+      "timeSubmitted": 91,
+      "contestantName": "Aramis",
+      "problemIndex": "A",
+      "verdict": "Accepted",
+      "num_judged": 4
+    },
+    {
+      "team_id": "25",
+      "num_solved": 4,
+      "total_time": 390,
+      "timeSubmitted": 31,
+      "contestantName": "Going to the moon",
+      "problemIndex": "A",
+      "verdict": "Accepted",
+      "num_judged": 1
+    },
+    {
+      "team_id": "9",
+      "num_solved": 6,
+      "total_time": 1059,
+      "timeSubmitted": 31,
+      "contestantName": "CO Cap",
+      "problemIndex": "B",
+      "verdict": "Accepted",
+      "num_judged": 1
+    },
+    {
+      "team_id": "25",
+      "num_solved": 4,
+      "total_time": 390,
+      "timeSubmitted": 191,
+      "contestantName": "Going to the moon",
+      "problemIndex": "C",
+      "verdict": "Accepted",
+      "num_judged": 9
+    },
+    {
+      "team_id": "14",
+      "num_solved": 6,
+      "total_time": 878,
+      "timeSubmitted": 71,
+      "contestantName": "TechTribe",
+      "problemIndex": "B",
+      "verdict": "Accepted",
+      "num_judged": 3
+    },
+    {
+      "team_id": "29",
+      "num_solved": 5,
+      "total_time": 399,
+      "timeSubmitted": 31,
+      "contestantName": "Cascavel",
+      "problemIndex": "C",
+      "verdict": "Accepted",
+      "num_judged": 1
+    },
+    {
+      "team_id": "31",
+      "num_solved": 3,
+      "total_time": 517,
+      "timeSubmitted": 132,
+      "contestantName": "code ade",
+      "problemIndex": "A",
+      "verdict": "Accepted",
+      "num_judged": 6
+    },
+    {
+      "team_id": "29",
+      "num_solved": 5,
+      "total_time": 399,
+      "timeSubmitted": 32,
+      "contestantName": "Cascavel",
+      "problemIndex": "B",
+      "verdict": "Accepted",
+      "num_judged": 1
+    },
+    {
+      "team_id": "33",
+      "num_solved": 4,
+      "total_time": 215,
+      "timeSubmitted": 32,
+      "contestantName": "Viva La Vida",
+      "problemIndex": "C",
+      "verdict": "Accepted",
+      "num_judged": 1
+    },
+    {
+      "team_id": "27",
+      "num_solved": 3,
+      "total_time": 565,
+      "timeSubmitted": 52,
+      "contestantName": "Code To infiniyu",
+      "problemIndex": "A",
+      "verdict": "Accepted",
+      "num_judged": 2
+    },
+    {
+      "team_id": "10",
+      "num_solved": 6,
+      "total_time": 592,
+      "timeSubmitted": 33,
+      "contestantName": "The HeisenBug",
+      "problemIndex": "I",
+      "verdict": "Accepted",
+      "num_judged": 1
+    },
+
+    {
+      "team_id": "25",
+      "num_solved": 4,
+      "total_time": 390,
+      "timeSubmitted": 34,
+      "contestantName": "Going to the moon",
+      "problemIndex": "I",
+      "verdict": "Accepted",
+      "num_judged": 1
+    },
+    {
+      "team_id": "24",
+      "num_solved": 3,
+      "total_time": 450,
+      "timeSubmitted": 54,
+      "contestantName": "257.5",
+      "problemIndex": "A",
+      "verdict": "Accepted",
+      "num_judged": 2
+    },
+    {
+      "team_id": "12",
+      "num_solved": 6,
+      "total_time": 593,
+      "timeSubmitted": 35,
+      "contestantName": "Gods of Py",
+      "problemIndex": "I",
+      "verdict": "Accepted",
+      "num_judged": 1
+    },
+    {
+      "team_id": "31",
+      "num_solved": 3,
+      "total_time": 517,
+      "timeSubmitted": 136,
+      "contestantName": "code ade",
+      "problemIndex": "A",
+      "verdict": "Accepted",
+      "num_judged": 6
+    },
+    {
+      "team_id": "11",
+      "num_solved": 4,
+      "total_time": 605,
+      "timeSubmitted": 96,
+      "contestantName": "Aramis",
+      "problemIndex": "A",
+      "verdict": "Accepted",
+      "num_judged": 4
+    },
+
+    {
+      "team_id": "25",
+      "num_solved": 4,
+      "total_time": 390,
+      "timeSubmitted": 197,
+      "contestantName": "Going to the moon",
+      "problemIndex": "C",
+      "verdict": "Accepted",
+      "num_judged": 9
+    },
+    {
+      "team_id": "12",
+      "num_solved": 6,
+      "total_time": 593,
+      "timeSubmitted": 37,
+      "contestantName": "Gods of Py",
+      "problemIndex": "B",
+      "verdict": "Accepted",
+      "num_judged": 1
+    },
+    {
+      "team_id": "32",
+      "num_solved": 3,
+      "total_time": 502,
+      "timeSubmitted": 38,
+      "contestantName": "OnlyJs",
+      "problemIndex": "I",
+      "verdict": "Accepted",
+      "num_judged": 1
+    },
+    {
+      "team_id": "34",
+      "num_solved": 4,
+      "total_time": 259,
+      "timeSubmitted": 38,
+      "contestantName": "hot fix",
+      "problemIndex": "B",
+      "verdict": "Accepted",
+      "num_judged": 1
+    },
+    {
+      "team_id": "22",
+      "num_solved": 3,
+      "total_time": 217,
+      "timeSubmitted": 58,
+      "contestantName": "black star",
+      "problemIndex": "I",
+      "verdict": "Accepted",
+      "num_judged": 2
+    },
+    {
+      "team_id": "9",
+      "num_solved": 6,
+      "total_time": 1059,
+      "timeSubmitted": 119,
+      "contestantName": "CO Cap",
+      "problemIndex": "C",
+      "verdict": "Accepted",
+      "num_judged": 5
+    },
+    {
+      "team_id": "29",
+      "num_solved": 5,
+      "total_time": 399,
+      "timeSubmitted": 39,
+      "contestantName": "Cascavel",
+      "problemIndex": "I",
+      "verdict": "Accepted",
+      "num_judged": 1
+    },
+    {
+      "team_id": "9",
+      "num_solved": 6,
+      "total_time": 1059,
+      "timeSubmitted": 120,
+      "contestantName": "CO Cap",
+      "problemIndex": "C",
+      "verdict": "Accepted",
+      "num_judged": 5
+    },
+    {
+      "team_id": "18",
+      "num_solved": 4,
+      "total_time": 587,
+      "timeSubmitted": 80,
+      "contestantName": "Zayko",
+      "problemIndex": "A",
+      "verdict": "Accepted",
+      "num_judged": 3
+    },
+    {
+      "team_id": "31",
+      "num_solved": 3,
+      "total_time": 517,
+      "timeSubmitted": 140,
+      "contestantName": "code ade",
+      "problemIndex": "A",
+      "verdict": "Accepted",
+      "num_judged": 6
+    },
+    {
+      "team_id": "34",
+      "num_solved": 4,
+      "total_time": 259,
+      "timeSubmitted": 41,
+      "contestantName": "hot fix",
+      "problemIndex": "A",
+      "verdict": "Accepted",
+      "num_judged": 1
+    },
+    {
+      "team_id": "22",
+      "num_solved": 3,
+      "total_time": 217,
+      "timeSubmitted": 63,
+      "contestantName": "black star",
+      "problemIndex": "I",
+      "verdict": "Accepted",
+      "num_judged": 2
+    },
+    {
+      "team_id": "23",
+      "num_solved": 4,
+      "total_time": 459,
+      "timeSubmitted": 43,
+      "contestantName": "MOZ",
+      "problemIndex": "B",
+      "verdict": "Accepted",
+      "num_judged": 1
+    },
+
+    {
+      "team_id": "19",
+      "num_solved": 2,
+      "total_time": 176,
+      "timeSubmitted": 63,
+      "contestantName": "Pointers",
+      "problemIndex": "A",
+      "verdict": "Accepted",
+      "num_judged": 2
+    },
+    {
+      "team_id": "7",
+      "num_solved": 4,
+      "total_time": 139,
+      "timeSubmitted": 43,
+      "contestantName": "NoN Barbary",
+      "problemIndex": "B",
+      "verdict": "Accepted",
+      "num_judged": 1
+    },
+    {
+      "team_id": "28",
+      "num_solved": 5,
+      "total_time": 342,
+      "timeSubmitted": 40,
+      "contestantName": "Let it Happen",
+      "problemIndex": "C",
+      "verdict": "Accepted",
+      "num_judged": 1
+    },
+    {
+      "team_id": "34",
+      "num_solved": 4,
+      "total_time": 259,
+      "timeSubmitted": 48,
+      "contestantName": "hot fix",
+      "problemIndex": "I",
+      "verdict": "Accepted",
+      "num_judged": 1
+    },
+    {
+      "team_id": "14",
+      "num_solved": 6,
+      "total_time": 878,
+      "timeSubmitted": 49,
+      "contestantName": "TechTribe",
+      "problemIndex": "C",
+      "verdict": "Accepted",
+      "num_judged": 1
+    },
+    {
+      "team_id": "20",
+      "num_solved": 4,
+      "total_time": 226,
+      "timeSubmitted": 49,
+      "contestantName": "Scatter",
+      "problemIndex": "C",
+      "verdict": "Accepted",
+      "num_judged": 1
+    },
+    {
+      "team_id": "7",
+      "num_solved": 4,
+      "total_time": 139,
+      "timeSubmitted": 50,
+      "contestantName": "NoN Barbary",
+      "problemIndex": "C",
+      "verdict": "Accepted",
+      "num_judged": 1
+    },
+    {
+      "team_id": "24",
+      "num_solved": 3,
+      "total_time": 450,
+      "timeSubmitted": 71,
+      "contestantName": "257.5",
+      "problemIndex": "A",
+      "verdict": "Accepted",
+      "num_judged": 2
+    },
+    {
+      "team_id": "30",
+      "num_solved": 4,
+      "total_time": 319,
+      "timeSubmitted": 52,
+      "contestantName": "Clr",
+      "problemIndex": "B",
+      "verdict": "Accepted",
+      "num_judged": 1
+    },
+    {
+      "team_id": "25",
+      "num_solved": 4,
+      "total_time": 390,
+      "timeSubmitted": 152,
+      "contestantName": "Going to the moon",
+      "problemIndex": "B",
+      "verdict": "Accepted",
+      "num_judged": 1
+    },
+    {
+      "team_id": "5",
+      "num_solved": 0,
+      "total_time": 0,
+      "timeSubmitted": 120,
+      "contestantName": "Java Drinkers",
+      "problemIndex": "C",
+      "verdict": "Accepted",
+      "num_judged": 1
+    },
+    {
+      "team_id": "16",
+      "num_solved": 6,
+      "total_time": 720,
+      "timeSubmitted": 53,
+      "contestantName": "CamelCase",
+      "problemIndex": "C",
+      "verdict": "Accepted",
+      "num_judged": 1
+    },
+    {
+      "team_id": "6",
+      "num_solved": 2,
+      "total_time": 350,
+      "timeSubmitted": 134,
+      "contestantName": "CAPTCHA",
+      "problemIndex": "A",
+      "verdict": "Accepted",
+      "num_judged": 5
+    },
+    {
+      "team_id": "5",
+      "num_solved": 0,
+      "total_time": 0,
+      "timeSubmitted": 220,
+      "contestantName": "Java Drinkers",
+      "problemIndex": "I",
+      "verdict": "Accepted",
+      "num_judged": 1
+    },
+
+    {
+      "team_id": "11",
+      "num_solved": 4,
+      "total_time": 605,
+      "timeSubmitted": 197,
+      "contestantName": "Aramis",
+      "problemIndex": "B",
+      "verdict": "Accepted",
+      "num_judged": 8
+    },
+    {
+      "team_id": "11",
+      "num_solved": 4,
+      "total_time": 605,
+      "timeSubmitted": 198,
+      "contestantName": "Aramis",
+      "problemIndex": "B",
+      "verdict": "Accepted",
+      "num_judged": 8
+    },
+    {
+      "team_id": "23",
+      "num_solved": 4,
+      "total_time": 459,
+      "timeSubmitted": 80,
+      "contestantName": "MOZ",
+      "problemIndex": "I",
+      "verdict": "Accepted",
+      "num_judged": 2
+    },
+    {
+      "team_id": "19",
+      "num_solved": 2,
+      "total_time": 176,
+      "timeSubmitted": 81,
+      "contestantName": "Pointers",
+      "problemIndex": "A",
+      "verdict": "Accepted",
+      "num_judged": 2
+    },
+    {
+      "team_id": "17",
+      "num_solved": 4,
+      "total_time": 354,
+      "timeSubmitted": 61,
+      "contestantName": "NAVI",
+      "problemIndex": "C",
+      "verdict": "Accepted",
+      "num_judged": 1
+    },
+    {
+      "team_id": "11",
+      "num_solved": 4,
+      "total_time": 605,
+      "timeSubmitted": 203,
+      "contestantName": "Aramis",
+      "problemIndex": "B",
+      "verdict": "Accepted",
+      "num_judged": 8
+    },
+    {
+      "team_id": "10",
+      "num_solved": 6,
+      "total_time": 592,
+      "timeSubmitted": 63,
+      "contestantName": "The HeisenBug",
+      "problemIndex": "C",
+      "verdict": "Accepted",
+      "num_judged": 1
+    },
+    {
+      "team_id": "7",
+      "num_solved": 4,
+      "total_time": 139,
+      "timeSubmitted": 65,
+      "contestantName": "NoN Barbary",
+      "problemIndex": "I",
+      "verdict": "Accepted",
+      "num_judged": 1
+    },
+    {
+      "team_id": "25",
+      "num_solved": 4,
+      "total_time": 390,
+      "timeSubmitted": 285,
+      "contestantName": "Going to the moon",
+      "problemIndex": "C",
+      "verdict": "Accepted",
+      "num_judged": 9
+    },
+    {
+      "team_id": "11",
+      "num_solved": 4,
+      "total_time": 605,
+      "timeSubmitted": 67,
+      "contestantName": "Aramis",
+      "problemIndex": "I",
+      "verdict": "Accepted",
+      "num_judged": 1
+    },
+    {
+      "team_id": "26",
+      "num_solved": 4,
+      "total_time": 279,
+      "timeSubmitted": 68,
+      "contestantName": "New Folder",
+      "problemIndex": "C",
+      "verdict": "Accepted",
+      "num_judged": 1
+    },
+    {
+      "team_id": "22",
+      "num_solved": 3,
+      "total_time": 217,
+      "timeSubmitted": 90,
+      "contestantName": "black star",
+      "problemIndex": "C",
+      "verdict": "Wrong answer",
+      "num_judged": 2
+    },
+
+    {
+      "team_id": "7",
+      "num_solved": 4,
+      "total_time": 139,
+      "timeSubmitted": 71,
+      "contestantName": "NoN Barbary",
+      "problemIndex": "B",
+      "verdict": "Accepted",
+      "num_judged": 1
+    },
+    {
+      "team_id": "21",
+      "num_solved": 2,
+      "total_time": 314,
+      "timeSubmitted": 73,
+      "contestantName": "کاما پیشرو برتر",
+      "problemIndex": "A",
+      "verdict": "Accepted",
+      "num_judged": 1
+    },
+    {
+      "team_id": "21",
+      "num_solved": 2,
+      "total_time": 314,
+      "timeSubmitted": 134,
+      "contestantName": "کاما پیشرو برتر",
+      "problemIndex": "B",
+      "verdict": "Wrong answer",
+      "num_judged": 4
+    },
+    {
+      "team_id": "9",
+      "num_solved": 6,
+      "total_time": 1059,
+      "timeSubmitted": 155,
+      "contestantName": "CO Cap",
+      "problemIndex": "C",
+      "verdict": "Accepted",
+      "num_judged": 5
+    },
+    {
+      "team_id": "15",
+      "num_solved": 4,
+      "total_time": 463,
+      "timeSubmitted": 76,
+      "contestantName": "Stack Overflow",
+      "problemIndex": "I",
+      "verdict": "Accepted",
+      "num_judged": 1
+    },
+    {
+      "team_id": "9",
+      "num_solved": 6,
+      "total_time": 1059,
+      "timeSubmitted": 156,
+      "contestantName": "CO Cap",
+      "problemIndex": "C",
+      "verdict": "Accepted",
+      "num_judged": 5
+    },
+    {
+      "team_id": "17",
+      "num_solved": 4,
+      "total_time": 354,
+      "timeSubmitted": 76,
+      "contestantName": "NAVI",
+      "problemIndex": "I",
+      "verdict": "Accepted",
+      "num_judged": 1
+    },
+    {
+      "team_id": "26",
+      "num_solved": 4,
+      "total_time": 279,
+      "timeSubmitted": 77,
+      "contestantName": "New Folder",
+      "problemIndex": "I",
+      "verdict": "Accepted",
+      "num_judged": 1
+    },
+    {
+      "team_id": "33",
+      "num_solved": 4,
+      "total_time": 215,
+      "timeSubmitted": 78,
+      "contestantName": "Viva La Vida",
+      "problemIndex": "B",
+      "verdict": "Accepted",
+      "num_judged": 1
+    },
+
+    {
+      "team_id": "33",
+      "num_solved": 4,
+      "total_time": 215,
+      "timeSubmitted": 80,
+      "contestantName": "Viva La Vida",
+      "problemIndex": "B",
+      "verdict": "Accepted",
+      "num_judged": 1
+    },
+    {
+      "team_id": "20",
+      "num_solved": 4,
+      "total_time": 226,
+      "timeSubmitted": 80,
+      "contestantName": "Scatter",
+      "problemIndex": "B",
+      "verdict": "Accepted",
+      "num_judged": 1
+    },
+    {
+      "team_id": "29",
+      "num_solved": 5,
+      "total_time": 399,
+      "timeSubmitted": 202,
+      "contestantName": "Cascavel",
+      "problemIndex": "E",
+      "verdict": "Accepted",
+      "num_judged": 7
+    },
+    {
+      "team_id": "29",
+      "num_solved": 5,
+      "total_time": 399,
+      "timeSubmitted": 204,
+      "contestantName": "Cascavel",
+      "problemIndex": "E",
+      "verdict": "Accepted",
+      "num_judged": 7
+    },
+    {
+      "team_id": "14",
+      "num_solved": 6,
+      "total_time": 878,
+      "timeSubmitted": 106,
+      "contestantName": "TechTribe",
+      "problemIndex": "I",
+      "verdict": "Accepted",
+      "num_judged": 2
+    },
+    {
+      "team_id": "14",
+      "num_solved": 6,
+      "total_time": 878,
+      "timeSubmitted": 107,
+      "contestantName": "TechTribe",
+      "problemIndex": "I",
+      "verdict": "Accepted",
+      "num_judged": 2
+    },
+    {
+      "team_id": "20",
+      "num_solved": 4,
+      "total_time": 226,
+      "timeSubmitted": 88,
+      "contestantName": "Scatter",
+      "problemIndex": "I",
+      "verdict": "Accepted",
+      "num_judged": 1
+    },
+    {
+      "team_id": "16",
+      "num_solved": 6,
+      "total_time": 720,
+      "timeSubmitted": 91,
+      "contestantName": "CamelCase",
+      "problemIndex": "I",
+      "verdict": "Accepted",
+      "num_judged": 1
+    },
+    {
+      "team_id": "11",
+      "num_solved": 4,
+      "total_time": 605,
+      "timeSubmitted": 92,
+      "contestantName": "Aramis",
+      "problemIndex": "C",
+      "verdict": "Accepted",
+      "num_judged": 1
+    },
+    {
+      "team_id": "9",
+      "num_solved": 6,
+      "total_time": 1059,
+      "timeSubmitted": 93,
+      "contestantName": "CO Cap",
+      "problemIndex": "B",
+      "verdict": "Accepted",
+      "num_judged": 1
+    },
+    {
+      "team_id": "33",
+      "num_solved": 4,
+      "total_time": 215,
+      "timeSubmitted": 94,
+      "contestantName": "Viva La Vida",
+      "problemIndex": "I",
+      "verdict": "Accepted",
+      "num_judged": 1
+    },
+    {
+      "team_id": "29",
+      "num_solved": 5,
+      "total_time": 399,
+      "timeSubmitted": 214,
+      "contestantName": "Cascavel",
+      "problemIndex": "E",
+      "verdict": "Accepted",
+      "num_judged": 7
+    },
+    {
+      "team_id": "19",
+      "num_solved": 2,
+      "total_time": 176,
+      "timeSubmitted": 95,
+      "contestantName": "Pointers",
+      "problemIndex": "I",
+      "verdict": "Accepted",
+      "num_judged": 1
+    },
+    {
+      "team_id": "17",
+      "num_solved": 4,
+      "total_time": 354,
+      "timeSubmitted": 156,
+      "contestantName": "NAVI",
+      "problemIndex": "B",
+      "verdict": "Accepted",
+      "num_judged": 4
+    },
+    {
+      "team_id": "9",
+      "num_solved": 6,
+      "total_time": 1059,
+      "timeSubmitted": 176,
+      "contestantName": "CO Cap",
+      "problemIndex": "C",
+      "verdict": "Accepted",
+      "num_judged": 5
+    },
+    {
+      "team_id": "9",
+      "num_solved": 6,
+      "total_time": 1059,
+      "timeSubmitted": 96,
+      "contestantName": "CO Cap",
+      "problemIndex": "B",
+      "verdict": "Accepted",
+      "num_judged": 1
+    },
+    {
+      "team_id": "17",
+      "num_solved": 4,
+      "total_time": 354,
+      "timeSubmitted": 158,
+      "contestantName": "NAVI",
+      "problemIndex": "B",
+      "verdict": "Accepted",
+      "num_judged": 4
+    },
+    {
+      "team_id": "9",
+      "num_solved": 6,
+      "total_time": 1059,
+      "timeSubmitted": 99,
+      "contestantName": "CO Cap",
+      "problemIndex": "B",
+      "verdict": "Accepted",
+      "num_judged": 1
+    },
+    {
+      "team_id": "30",
+      "num_solved": 4,
+      "total_time": 319,
+      "timeSubmitted": 99,
+      "contestantName": "Clr",
+      "problemIndex": "I",
+      "verdict": "Accepted",
+      "num_judged": 1
+    },
+    {
+      "team_id": "11",
+      "num_solved": 4,
+      "total_time": 605,
+      "timeSubmitted": 240,
+      "contestantName": "Aramis",
+      "problemIndex": "B",
+      "verdict": "Accepted",
+      "num_judged": 8
+    },
+    {
+      "team_id": "9",
+      "num_solved": 6,
+      "total_time": 1059,
+      "timeSubmitted": 100,
+      "contestantName": "CO Cap",
+      "problemIndex": "B",
+      "verdict": "Accepted",
+      "num_judged": 1
+    },
+    {
+      "team_id": "14",
+      "num_solved": 6,
+      "total_time": 878,
+      "timeSubmitted": 141,
+      "contestantName": "TechTribe",
+      "problemIndex": "B",
+      "verdict": "Accepted",
+      "num_judged": 3
+    },
+    {
+      "team_id": "9",
+      "num_solved": 6,
+      "total_time": 1059,
+      "timeSubmitted": 102,
+      "contestantName": "CO Cap",
+      "problemIndex": "B",
+      "verdict": "Accepted",
+      "num_judged": 1
+    },
+    {
+      "team_id": "16",
+      "num_solved": 6,
+      "total_time": 720,
+      "timeSubmitted": 123,
+      "contestantName": "CamelCase",
+      "problemIndex": "E",
+      "verdict": "Wrong answer",
+      "num_judged": 2
+    },
+    {
+      "team_id": "29",
+      "num_solved": 5,
+      "total_time": 399,
+      "timeSubmitted": 225,
+      "contestantName": "Cascavel",
+      "problemIndex": "E",
+      "verdict": "Accepted",
+      "num_judged": 7
+    },
+    {
+      "team_id": "31",
+      "num_solved": 3,
+      "total_time": 517,
+      "timeSubmitted": 107,
+      "contestantName": "code ade",
+      "problemIndex": "I",
+      "verdict": "Accepted",
+      "num_judged": 1
+    },
+    {
+      "team_id": "18",
+      "num_solved": 4,
+      "total_time": 587,
+      "timeSubmitted": 109,
+      "contestantName": "Zayko",
+      "problemIndex": "I",
+      "verdict": "Accepted",
+      "num_judged": 1
+    },
+    {
+      "team_id": "5",
+      "num_solved": 0,
+      "total_time": 0,
+      "timeSubmitted": 190,
+      "contestantName": "Java Drinkers",
+      "problemIndex": "D",
+      "verdict": "Accepted",
+      "num_judged": 1
+    },
+    {
+      "team_id": "20",
+      "num_solved": 4,
+      "total_time": 226,
+      "timeSubmitted": 114,
+      "contestantName": "Scatter",
+      "problemIndex": "B",
+      "verdict": "Accepted",
+      "num_judged": 1
+    },
+    {
+      "team_id": "24",
+      "num_solved": 3,
+      "total_time": 450,
+      "timeSubmitted": 154,
+      "contestantName": "257.5",
+      "problemIndex": "C",
+      "verdict": "Wrong answer",
+      "num_judged": 3
+    },
+    {
+      "team_id": "28",
+      "num_solved": 3,
+      "total_time": 342,
+      "timeSubmitted": 100,
+      "contestantName": "Let it Happen",
+      "problemIndex": "D",
+      "verdict": "Accepted",
+      "num_judged": 1
+    },
+    {
+      "team_id": "20",
+      "num_solved": 4,
+      "total_time": 226,
+      "timeSubmitted": 114,
+      "contestantName": "Scatter",
+      "problemIndex": "B",
+      "verdict": "Accepted",
+      "num_judged": 1
+    },
+    {
+      "team_id": "21",
+      "num_solved": 2,
+      "total_time": 314,
+      "timeSubmitted": 116,
+      "contestantName": "کاما پیشرو برتر",
+      "problemIndex": "A",
+      "verdict": "Accepted",
+      "num_judged": 1
+    },
+    {
+      "team_id": "26",
+      "num_solved": 4,
+      "total_time": 279,
+      "timeSubmitted": 117,
+      "contestantName": "New Folder",
+      "problemIndex": "B",
+      "verdict": "Accepted",
+      "num_judged": 1
+    },
+    {
+      "team_id": "11",
+      "num_solved": 4,
+      "total_time": 605,
+      "timeSubmitted": 258,
+      "contestantName": "Aramis",
+      "problemIndex": "B",
+      "verdict": "Accepted",
+      "num_judged": 8
+    },
+    {
+      "team_id": "11",
+      "num_solved": 4,
+      "total_time": 605,
+      "timeSubmitted": 260,
+      "contestantName": "Aramis",
+      "problemIndex": "B",
+      "verdict": "Accepted",
+      "num_judged": 8
+    },
+    {
+      "team_id": "9",
+      "num_solved": 6,
+      "total_time": 1059,
+      "timeSubmitted": 220,
+      "contestantName": "CO Cap",
+      "problemIndex": "H",
+      "verdict": "Accepted",
+      "num_judged": 6
+    },
+    {
+      "team_id": "28",
+      "num_solved": 5,
+      "total_time": 342,
+      "timeSubmitted": 100,
+      "contestantName": "Let it Happen",
+      "problemIndex": "B",
+      "verdict": "Accepted",
+      "num_judged": 1
+    },
+    {
+      "team_id": "24",
+      "num_solved": 3,
+      "total_time": 450,
+      "timeSubmitted": 164,
+      "contestantName": "257.5",
+      "problemIndex": "C",
+      "verdict": "Wrong answer",
+      "num_judged": 3
+    },
+    {
+      "team_id": "21",
+      "num_solved": 2,
+      "total_time": 314,
+      "timeSubmitted": 125,
+      "contestantName": "کاما پیشرو برتر",
+      "problemIndex": "A",
+      "verdict": "Accepted",
+      "num_judged": 1
+    },
+    {
+      "team_id": "26",
+      "num_solved": 4,
+      "total_time": 279,
+      "timeSubmitted": 128,
+      "contestantName": "New Folder",
+      "problemIndex": "B",
+      "verdict": "Accepted",
+      "num_judged": 1
+    },
+    {
+      "team_id": "10",
+      "num_solved": 6,
+      "total_time": 592,
+      "timeSubmitted": 128,
+      "contestantName": "The HeisenBug",
+      "problemIndex": "D",
+      "verdict": "Accepted",
+      "num_judged": 1
+    },
+    {
+      "team_id": "25",
+      "num_solved": 4,
+      "total_time": 390,
+      "timeSubmitted": 168,
+      "contestantName": "Going to the moon",
+      "problemIndex": "F",
+      "verdict": "Wrong answer",
+      "num_judged": 3
+    },
+    {
+      "team_id": "17",
+      "num_solved": 4,
+      "total_time": 354,
+      "timeSubmitted": 190,
+      "contestantName": "NAVI",
+      "problemIndex": "B",
+      "verdict": "Accepted",
+      "num_judged": 4
+    },
+    {
+      "team_id": "29",
+      "num_solved": 5,
+      "total_time": 399,
+      "timeSubmitted": 190,
+      "contestantName": "Cascavel",
+      "problemIndex": "D",
+      "verdict": "Wrong answer",
+      "num_judged": 4
+    },
+
+    {
+      "team_id": "20",
+      "num_solved": 4,
+      "total_time": 226,
+      "timeSubmitted": 132,
+      "contestantName": "Scatter",
+      "problemIndex": "B",
+      "verdict": "Accepted",
+      "num_judged": 1
+    },
+
+    {
+      "team_id": "21",
+      "num_solved": 2,
+      "total_time": 314,
+      "timeSubmitted": 133,
+      "contestantName": "کاما پیشرو برتر",
+      "problemIndex": "A",
+      "verdict": "Accepted",
+      "num_judged": 1
+    },
+    {
+      "team_id": "33",
+      "num_solved": 4,
+      "total_time": 215,
+      "timeSubmitted": 135,
+      "contestantName": "Viva La Vida",
+      "problemIndex": "B",
+      "verdict": "Accepted",
+      "num_judged": 1
+    },
+    {
+      "team_id": "11",
+      "num_solved": 4,
+      "total_time": 605,
+      "timeSubmitted": 357,
+      "contestantName": "Aramis",
+      "problemIndex": "E",
+      "verdict": "Wrong answer",
+      "num_judged": 12
+    },
+    {
+      "team_id": "22",
+      "num_solved": 3,
+      "total_time": 217,
+      "timeSubmitted": 139,
+      "contestantName": "black star",
+      "problemIndex": "B",
+      "verdict": "Accepted",
+      "num_judged": 1
+    },
+    {
+      "team_id": "21",
+      "num_solved": 2,
+      "total_time": 314,
+      "timeSubmitted": 139,
+      "contestantName": "کاما پیشرو برتر",
+      "problemIndex": "A",
+      "verdict": "Accepted",
+      "num_judged": 1
+    },
+    {
+      "team_id": "25",
+      "num_solved": 4,
+      "total_time": 390,
+      "timeSubmitted": 529,
+      "contestantName": "Going to the moon",
+      "problemIndex": "C",
+      "verdict": "Accepted",
+      "num_judged": 20
+    },
+    {
+      "team_id": "15",
+      "num_solved": 4,
+      "total_time": 463,
+      "timeSubmitted": 149,
+      "contestantName": "Stack Overflow",
+      "problemIndex": "C",
+      "verdict": "Accepted",
+      "num_judged": 3
+    },
+    {
+      "team_id": "17",
+      "num_solved": 4,
+      "total_time": 354,
+      "timeSubmitted": 201,
+      "contestantName": "NAVI",
+      "problemIndex": "B",
+      "verdict": "Accepted",
+      "num_judged": 4
+    },
+    {
+      "team_id": "28",
+      "num_solved": 5,
+      "total_time": 342,
+      "timeSubmitted": 100,
+      "contestantName": "Let it Happen",
+      "problemIndex": "I",
+      "verdict": "Accepted",
+      "num_judged": 2
+    },
+    {
+      "team_id": "8",
+      "num_solved": 4,
+      "total_time": 273,
+      "timeSubmitted": 182,
+      "contestantName": "Connecting",
+      "problemIndex": "D",
+      "verdict": "Wrong answer",
+      "num_judged": 3
+    },
+    {
+      "team_id": "22",
+      "num_solved": 3,
+      "total_time": 217,
+      "timeSubmitted": 143,
+      "contestantName": "black star",
+      "problemIndex": "A",
+      "verdict": "Accepted",
+      "num_judged": 1
+    },
+    {
+      "team_id": "22",
+      "num_solved": 3,
+      "total_time": 217,
+      "timeSubmitted": 145,
+      "contestantName": "black star",
+      "problemIndex": "B",
+      "verdict": "Accepted",
+      "num_judged": 1
+    },
+
+    {
+      "team_id": "14",
+      "num_solved": 6,
+      "total_time": 878,
+      "timeSubmitted": 185,
+      "contestantName": "TechTribe",
+      "problemIndex": "B",
+      "verdict": "Accepted",
+      "num_judged": 3
+    },
+    {
+      "team_id": "11",
+      "num_solved": 4,
+      "total_time": 605,
+      "timeSubmitted": 366,
+      "contestantName": "Aramis",
+      "problemIndex": "E",
+      "verdict": "Wrong answer",
+      "num_judged": 12
+    },
+    {
+      "team_id": "32",
+      "num_solved": 3,
+      "total_time": 502,
+      "timeSubmitted": 208,
+      "contestantName": "OnlyJs",
+      "problemIndex": "A",
+      "verdict": "Accepted",
+      "num_judged": 4
+    },
+    {
+      "team_id": "33",
+      "num_solved": 4,
+      "total_time": 215,
+      "timeSubmitted": 149,
+      "contestantName": "Viva La Vida",
+      "problemIndex": "B",
+      "verdict": "Accepted",
+      "num_judged": 1
+    },
+    {
+      "team_id": "29",
+      "num_solved": 5,
+      "total_time": 399,
+      "timeSubmitted": 270,
+      "contestantName": "Cascavel",
+      "problemIndex": "E",
+      "verdict": "Accepted",
+      "num_judged": 7
+    },
+    {
+      "team_id": "25",
+      "num_solved": 4,
+      "total_time": 390,
+      "timeSubmitted": 190,
+      "contestantName": "Going to the moon",
+      "problemIndex": "F",
+      "verdict": "Wrong answer",
+      "num_judged": 3
+    },
+    {
+      "team_id": "24",
+      "num_solved": 3,
+      "total_time": 450,
+      "timeSubmitted": 150,
+      "contestantName": "257.5",
+      "problemIndex": "I",
+      "verdict": "Accepted",
+      "num_judged": 1
+    },
+    {
+      "team_id": "13",
+      "num_solved": 2,
+      "total_time": 172,
+      "timeSubmitted": 99,
+      "contestantName": "Three-state Buffer",
+      "problemIndex": "I",
+      "verdict": "Accepted",
+      "num_judged": 1
+    },
+    {
+      "team_id": "10",
+      "num_solved": 6,
+      "total_time": 592,
+      "timeSubmitted": 152,
+      "contestantName": "The HeisenBug",
+      "problemIndex": "B",
+      "verdict": "Accepted",
+      "num_judged": 1
+    },
+    {
+      "team_id": "25",
+      "num_solved": 4,
+      "total_time": 390,
+      "timeSubmitted": 194,
+      "contestantName": "Going to the moon",
+      "problemIndex": "F",
+      "verdict": "Wrong answer",
+      "num_judged": 3
+    },
+    {
+      "team_id": "32",
+      "num_solved": 3,
+      "total_time": 502,
+      "timeSubmitted": 217,
+      "contestantName": "OnlyJs",
+      "problemIndex": "A",
+      "verdict": "Accepted",
+      "num_judged": 4
+    },
+    {
+      "team_id": "16",
+      "num_solved": 6,
+      "total_time": 720,
+      "timeSubmitted": 198,
+      "contestantName": "CamelCase",
+      "problemIndex": "F",
+      "verdict": "Accepted",
+      "num_judged": 3
+    },
+    {
+      "team_id": "23",
+      "num_solved": 4,
+      "total_time": 459,
+      "timeSubmitted": 160,
+      "contestantName": "MOZ",
+      "problemIndex": "B",
+      "verdict": "Accepted",
+      "num_judged": 1
+    },
+    {
+      "team_id": "16",
+      "num_solved": 6,
+      "total_time": 720,
+      "timeSubmitted": 200,
+      "contestantName": "CamelCase",
+      "problemIndex": "F",
+      "verdict": "Accepted",
+      "num_judged": 3
+    },
+    {
+      "team_id": "20",
+      "num_solved": 4,
+      "total_time": 226,
+      "timeSubmitted": 160,
+      "contestantName": "Scatter",
+      "problemIndex": "B",
+      "verdict": "Accepted",
+      "num_judged": 1
+    },
+    {
+      "team_id": "12",
+      "num_solved": 6,
+      "total_time": 593,
+      "timeSubmitted": 211,
+      "contestantName": "Gods of Py",
+      "problemIndex": "H",
+      "verdict": "Accepted",
+      "num_judged": 3
+    },
+
+    {
+      "team_id": "9",
+      "num_solved": 6,
+      "total_time": 1059,
+      "timeSubmitted": 210,
+      "contestantName": "CO Cap",
+      "problemIndex": "H",
+      "verdict": "Accepted",
+      "num_judged": 6
+    },
+    {
+      "team_id": "14",
+      "num_solved": 6,
+      "total_time": 878,
+      "timeSubmitted": 225,
+      "contestantName": "TechTribe",
+      "problemIndex": "H",
+      "verdict": "Accepted",
+      "num_judged": 4
+    },
+    {
+      "team_id": "34",
+      "num_solved": 4,
+      "total_time": 259,
+      "timeSubmitted": 165,
+      "contestantName": "hot fix",
+      "problemIndex": "C",
+      "verdict": "Accepted",
+      "num_judged": 1
+    },
+    {
+      "team_id": "32",
+      "num_solved": 3,
+      "total_time": 502,
+      "timeSubmitted": 227,
+      "contestantName": "OnlyJs",
+      "problemIndex": "A",
+      "verdict": "Accepted",
+      "num_judged": 4
+    },
+    {
+      "team_id": "24",
+      "num_solved": 3,
+      "total_time": 450,
+      "timeSubmitted": 208,
+      "contestantName": "257.5",
+      "problemIndex": "C",
+      "verdict": "Wrong answer",
+      "num_judged": 3
+    },
+    {
+      "team_id": "29",
+      "num_solved": 5,
+      "total_time": 399,
+      "timeSubmitted": 288,
+      "contestantName": "Cascavel",
+      "problemIndex": "E",
+      "verdict": "Accepted",
+      "num_judged": 7
+    },
+    {
+      "team_id": "8",
+      "num_solved": 4,
+      "total_time": 273,
+      "timeSubmitted": 208,
+      "contestantName": "Connecting",
+      "problemIndex": "D",
+      "verdict": "Wrong answer",
+      "num_judged": 3
+    },
+    {
+      "team_id": "9",
+      "num_solved": 6,
+      "total_time": 1059,
+      "timeSubmitted": 269,
+      "contestantName": "CO Cap",
+      "problemIndex": "H",
+      "verdict": "Accepted",
+      "num_judged": 6
+    },
+    {
+      "team_id": "9",
+      "num_solved": 6,
+      "total_time": 1059,
+      "timeSubmitted": 270,
+      "contestantName": "CO Cap",
+      "problemIndex": "H",
+      "verdict": "Accepted",
+      "num_judged": 6
+    },
+    {
+      "team_id": "32",
+      "num_solved": 3,
+      "total_time": 502,
+      "timeSubmitted": 230,
+      "contestantName": "OnlyJs",
+      "problemIndex": "A",
+      "verdict": "Accepted",
+      "num_judged": 4
+    },
+    {
+      "team_id": "7",
+      "num_solved": 4,
+      "total_time": 139,
+      "timeSubmitted": 351,
+      "contestantName": "NoN Barbary",
+      "problemIndex": "E",
+      "verdict": "Wrong answer",
+      "num_judged": 10
+    },
+    {
+      "team_id": "16",
+      "num_solved": 6,
+      "total_time": 720,
+      "timeSubmitted": 172,
+      "contestantName": "CamelCase",
+      "problemIndex": "H",
+      "verdict": "Wrong answer",
+      "num_judged": 1
+    },
+    {
+      "team_id": "9",
+      "num_solved": 6,
+      "total_time": 1059,
+      "timeSubmitted": 274,
+      "contestantName": "CO Cap",
+      "problemIndex": "H",
+      "verdict": "Accepted",
+      "num_judged": 6
+    },
+    {
+      "team_id": "21",
+      "num_solved": 2,
+      "total_time": 314,
+      "timeSubmitted": 175,
+      "contestantName": "کاما پیشرو برتر",
+      "problemIndex": "I",
+      "verdict": "Accepted",
+      "num_judged": 1
+    },
+    {
+      "team_id": "15",
+      "num_solved": 4,
+      "total_time": 463,
+      "timeSubmitted": 176,
+      "contestantName": "Stack Overflow",
+      "problemIndex": "B",
+      "verdict": "Accepted",
+      "num_judged": 1
+    },
+    {
+      "team_id": "30",
+      "num_solved": 4,
+      "total_time": 319,
+      "timeSubmitted": 146,
+      "contestantName": "Clr",
+      "problemIndex": "C",
+      "verdict": "Accepted",
+      "num_judged": 1
+    },
+    {
+      "team_id": "14",
+      "num_solved": 6,
+      "total_time": 878,
+      "timeSubmitted": 238,
+      "contestantName": "TechTribe",
+      "problemIndex": "H",
+      "verdict": "Accepted",
+      "num_judged": 4
+    },
+    {
+      "team_id": "14",
+      "num_solved": 6,
+      "total_time": 878,
+      "timeSubmitted": 238,
+      "contestantName": "TechTribe",
+      "problemIndex": "H",
+      "verdict": "Accepted",
+      "num_judged": 4
+    },
+    {
+      "team_id": "29",
+      "num_solved": 6,
+      "total_time": 399,
+      "timeSubmitted": 351,
+      "contestantName": "Cascavel",
+      "problemIndex": "E",
+      "verdict": "Accepted",
+      "num_judged": 7
+    },
+    {
+      "team_id": "11",
+      "num_solved": 4,
+      "total_time": 605,
+      "timeSubmitted": 325,
+      "contestantName": "Aramis",
+      "problemIndex": "B",
+      "verdict": "Accepted",
+      "num_judged": 8
+    },
+    {
+      "team_id": "21",
+      "num_solved": 2,
+      "total_time": 314,
+      "timeSubmitted": 246,
+      "contestantName": "کاما پیشرو برتر",
+      "problemIndex": "B",
+      "verdict": "Wrong answer",
+      "num_judged": 4
+    },
+    {
+      "team_id": "18",
+      "num_solved": 4,
+      "total_time": 587,
+      "timeSubmitted": 100,
+      "contestantName": "Zayko",
+      "problemIndex": "C",
+      "verdict": "Accepted",
+      "num_judged": 3
+    },
+    {
+      "team_id": "18",
+      "num_solved": 4,
+      "total_time": 587,
+      "timeSubmitted": 145,
+      "contestantName": "Zayko",
+      "problemIndex": "B",
+      "verdict": "Accepted",
+      "num_judged": 3
+    },
+    {
+      "team_id": "9",
+      "num_solved": 6,
+      "total_time": 1059,
+      "timeSubmitted": 290,
+      "contestantName": "CO Cap",
+      "problemIndex": "H",
+      "verdict": "Accepted",
+      "num_judged": 6
+    },
+    {
+      "team_id": "5",
+      "num_solved": 0,
+      "total_time": 0,
+      "timeSubmitted": 192,
+      "contestantName": "Java Drinkers",
+      "problemIndex": "F",
+      "verdict": "Wrong answer",
+      "num_judged": 1
+    },
+    {
+      "team_id": "7",
+      "num_solved": 4,
+      "total_time": 139,
+      "timeSubmitted": 372,
+      "contestantName": "NoN Barbary",
+      "problemIndex": "E",
+      "verdict": "Wrong answer",
+      "num_judged": 10
+    },
+    {
+      "team_id": "33",
+      "num_solved": 4,
+      "total_time": 215,
+      "timeSubmitted": 296,
+      "contestantName": "Viva La Vida",
+      "problemIndex": "D",
+      "verdict": "Wrong answer",
+      "num_judged": 6
+    },
+    {
+      "team_id": "8",
+      "num_solved": 4,
+      "total_time": 273,
+      "timeSubmitted": 216,
+      "contestantName": "Connecting",
+      "problemIndex": "B",
+      "verdict": "Accepted",
+      "num_judged": 2
+    },
+    {
+      "team_id": "8",
+      "num_solved": 4,
+      "total_time": 273,
+      "timeSubmitted": 217,
+      "contestantName": "Connecting",
+      "problemIndex": "B",
+      "verdict": "Accepted",
+      "num_judged": 2
+    },
+    {
+      "team_id": "21",
+      "num_solved": 2,
+      "total_time": 314,
+      "timeSubmitted": 257,
+      "contestantName": "کاما پیشرو برتر",
+      "problemIndex": "B",
+      "verdict": "Wrong answer",
+      "num_judged": 4
+    },
+    {
+      "team_id": "7",
+      "num_solved": 4,
+      "total_time": 139,
+      "timeSubmitted": 379,
+      "contestantName": "NoN Barbary",
+      "problemIndex": "E",
+      "verdict": "Wrong answer",
+      "num_judged": 10
+    },
+    {
+      "team_id": "7",
+      "num_solved": 4,
+      "total_time": 139,
+      "timeSubmitted": 382,
+      "contestantName": "NoN Barbary",
+      "problemIndex": "E",
+      "verdict": "Wrong answer",
+      "num_judged": 10
+    },
+    {
+      "team_id": "33",
+      "num_solved": 4,
+      "total_time": 215,
+      "timeSubmitted": 303,
+      "contestantName": "Viva La Vida",
+      "problemIndex": "D",
+      "verdict": "Wrong answer",
+      "num_judged": 6
+    },
+    {
+      "team_id": "19",
+      "num_solved": 2,
+      "total_time": 176,
+      "timeSubmitted": 244,
+      "contestantName": "Pointers",
+      "problemIndex": "C",
+      "verdict": "Wrong answer",
+      "num_judged": 3
+    },
+
+    {
+      "team_id": "10",
+      "num_solved": 6,
+      "total_time": 592,
+      "timeSubmitted": 205,
+      "contestantName": "The HeisenBug",
+      "problemIndex": "F",
+      "verdict": "Accepted",
+      "num_judged": 1
+    },
+    {
+      "team_id": "11",
+      "num_solved": 4,
+      "total_time": 605,
+      "timeSubmitted": 350,
+      "contestantName": "Aramis",
+      "problemIndex": "B",
+      "verdict": "Accepted",
+      "num_judged": 8
+    },
+    {
+      "team_id": "12",
+      "num_solved": 6,
+      "total_time": 593,
+      "timeSubmitted": 251,
+      "contestantName": "Gods of Py",
+      "problemIndex": "H",
+      "verdict": "Accepted",
+      "num_judged": 3
+    },
+    {
+      "team_id": "27",
+      "num_solved": 3,
+      "total_time": 565,
+      "timeSubmitted": 212,
+      "contestantName": "Code To infiniyu",
+      "problemIndex": "I",
+      "verdict": "Accepted",
+      "num_judged": 1
+    },
+    {
+      "team_id": "11",
+      "num_solved": 4,
+      "total_time": 605,
+      "timeSubmitted": 432,
+      "contestantName": "Aramis",
+      "problemIndex": "E",
+      "verdict": "Wrong answer",
+      "num_judged": 12
+    },
+    {
+      "team_id": "18",
+      "num_solved": 4,
+      "total_time": 587,
+      "timeSubmitted": 253,
+      "contestantName": "Zayko",
+      "problemIndex": "C",
+      "verdict": "Accepted",
+      "num_judged": 3
+    },
+    {
+      "team_id": "7",
+      "num_solved": 4,
+      "total_time": 139,
+      "timeSubmitted": 395,
+      "contestantName": "NoN Barbary",
+      "problemIndex": "E",
+      "verdict": "Wrong answer",
+      "num_judged": 10
+    },
+    {
+      "team_id": "6",
+      "num_solved": 2,
+      "total_time": 350,
+      "timeSubmitted": 216,
+      "contestantName": "CAPTCHA",
+      "problemIndex": "I",
+      "verdict": "Accepted",
+      "num_judged": 1
+    },
+    {
+      "team_id": "7",
+      "num_solved": 4,
+      "total_time": 139,
+      "timeSubmitted": 396,
+      "contestantName": "NoN Barbary",
+      "problemIndex": "E",
+      "verdict": "Wrong answer",
+      "num_judged": 10
+    },
+    {
+      "team_id": "8",
+      "num_solved": 4,
+      "total_time": 273,
+      "timeSubmitted": 256,
+      "contestantName": "Connecting",
+      "problemIndex": "D",
+      "verdict": "Wrong answer",
+      "num_judged": 3
+    },
+    {
+      "team_id": "14",
+      "num_solved": 6,
+      "total_time": 878,
+      "timeSubmitted": 224,
+      "contestantName": "TechTribe",
+      "problemIndex": "D",
+      "verdict": "Accepted",
+      "num_judged": 1
+    },
+    {
+      "team_id": "33",
+      "num_solved": 4,
+      "total_time": 215,
+      "timeSubmitted": 325,
+      "contestantName": "Viva La Vida",
+      "problemIndex": "D",
+      "verdict": "Wrong answer",
+      "num_judged": 6
+    },
+    {
+      "team_id": "33",
+      "num_solved": 4,
+      "total_time": 215,
+      "timeSubmitted": 326,
+      "contestantName": "Viva La Vida",
+      "problemIndex": "D",
+      "verdict": "Wrong answer",
+      "num_judged": 6
+    },
+    {
+      "team_id": "29",
+      "num_solved": 5,
+      "total_time": 399,
+      "timeSubmitted": 286,
+      "contestantName": "Cascavel",
+      "problemIndex": "D",
+      "verdict": "Wrong answer",
+      "num_judged": 4
+    },
+    {
+      "team_id": "24",
+      "num_solved": 3,
+      "total_time": 450,
+      "timeSubmitted": 229,
+      "contestantName": "257.5",
+      "problemIndex": "B",
+      "verdict": "Accepted",
+      "num_judged": 1
+    },
+    {
+      "team_id": "9",
+      "num_solved": 6,
+      "total_time": 1059,
+      "timeSubmitted": 312,
+      "contestantName": "CO Cap",
+      "problemIndex": "D",
+      "verdict": "Wrong answer",
+      "num_judged": 5
+    },
+    {
+      "team_id": "11",
+      "num_solved": 4,
+      "total_time": 605,
+      "timeSubmitted": 453,
+      "contestantName": "Aramis",
+      "problemIndex": "E",
+      "verdict": "Wrong answer",
+      "num_judged": 12
+    },
+    {
+      "team_id": "9",
+      "num_solved": 6,
+      "total_time": 1059,
+      "timeSubmitted": 313,
+      "contestantName": "CO Cap",
+      "problemIndex": "D",
+      "verdict": "Wrong answer",
+      "num_judged": 5
+    },
+    {
+      "team_id": "32",
+      "num_solved": 3,
+      "total_time": 502,
+      "timeSubmitted": 234,
+      "contestantName": "OnlyJs",
+      "problemIndex": "B",
+      "verdict": "Accepted",
+      "num_judged": 1
+    },
+    {
+      "team_id": "9",
+      "num_solved": 6,
+      "total_time": 1059,
+      "timeSubmitted": 314,
+      "contestantName": "CO Cap",
+      "problemIndex": "D",
+      "verdict": "Wrong answer",
+      "num_judged": 5
+    },
+    {
+      "team_id": "13",
+      "num_solved": 2,
+      "total_time": 172,
+      "timeSubmitted": 257,
+      "contestantName": "Three-state Buffer",
+      "problemIndex": "C",
+      "verdict": "Wrong answer",
+      "num_judged": 2
+    },
+    {
+      "team_id": "13",
+      "num_solved": 2,
+      "total_time": 172,
+      "timeSubmitted": 259,
+      "contestantName": "Three-state Buffer",
+      "problemIndex": "C",
+      "verdict": "Wrong answer",
+      "num_judged": 2
+    },
+    {
+      "team_id": "16",
+      "num_solved": 6,
+      "total_time": 720,
+      "timeSubmitted": 239,
+      "contestantName": "CamelCase",
+      "problemIndex": "D",
+      "verdict": "Accepted",
+      "num_judged": 1
+    },
+    {
+      "team_id": "11",
+      "num_solved": 4,
+      "total_time": 605,
+      "timeSubmitted": 461,
+      "contestantName": "Aramis",
+      "problemIndex": "E",
+      "verdict": "Wrong answer",
+      "num_judged": 12
+    },
+    {
+      "team_id": "7",
+      "num_solved": 4,
+      "total_time": 139,
+      "timeSubmitted": 421,
+      "contestantName": "NoN Barbary",
+      "problemIndex": "E",
+      "verdict": "Wrong answer",
+      "num_judged": 10
+    },
+    {
+      "team_id": "9",
+      "num_solved": 6,
+      "total_time": 1059,
+      "timeSubmitted": 321,
+      "contestantName": "CO Cap",
+      "problemIndex": "D",
+      "verdict": "Wrong answer",
+      "num_judged": 5
+    },
+    {
+      "team_id": "9",
+      "num_solved": 6,
+      "total_time": 1059,
+      "timeSubmitted": 323,
+      "contestantName": "CO Cap",
+      "problemIndex": "D",
+      "verdict": "Wrong answer",
+      "num_judged": 5
+    },
+    {
+      "team_id": "11",
+      "num_solved": 4,
+      "total_time": 605,
+      "timeSubmitted": 463,
+      "contestantName": "Aramis",
+      "problemIndex": "E",
+      "verdict": "Wrong answer",
+      "num_judged": 12
+    },
+    {
+      "team_id": "12",
+      "num_solved": 6,
+      "total_time": 593,
+      "timeSubmitted": 244,
+      "contestantName": "Gods of Py",
+      "problemIndex": "D",
+      "verdict": "Accepted",
+      "num_judged": 1
+    },
+    {
+      "team_id": "7",
+      "num_solved": 4,
+      "total_time": 139,
+      "timeSubmitted": 425,
+      "contestantName": "NoN Barbary",
+      "problemIndex": "E",
+      "verdict": "Wrong answer",
+      "num_judged": 10
+    },
+    {
+      "team_id": "11",
+      "num_solved": 4,
+      "total_time": 605,
+      "timeSubmitted": 466,
+      "contestantName": "Aramis",
+      "problemIndex": "E",
+      "verdict": "Wrong answer",
+      "num_judged": 12
+    },
+    {
+      "team_id": "14",
+      "num_solved": 6,
+      "total_time": 878,
+      "timeSubmitted": 306,
+      "contestantName": "TechTribe",
+      "problemIndex": "H",
+      "verdict": "Accepted",
+      "num_judged": 4
+    },
+    {
+      "team_id": "7",
+      "num_solved": 4,
+      "total_time": 139,
+      "timeSubmitted": 430,
+      "contestantName": "NoN Barbary",
+      "problemIndex": "E",
+      "verdict": "Wrong answer",
+      "num_judged": 10
+    },
+    {
+      "team_id": "9",
+      "num_solved": 6,
+      "total_time": 1059,
+      "timeSubmitted": 332,
+      "contestantName": "CO Cap",
+      "problemIndex": "C",
+      "verdict": "Accepted",
+      "num_judged": 5
+    },
+    {
+      "team_id": "7",
+      "num_solved": 4,
+      "total_time": 139,
+      "timeSubmitted": 433,
+      "contestantName": "NoN Barbary",
+      "problemIndex": "E",
+      "verdict": "Wrong answer",
+      "num_judged": 10
+    },
+    {
+      "team_id": "23",
+      "num_solved": 4,
+      "total_time": 459,
+      "timeSubmitted": 293,
+      "contestantName": "MOZ",
+      "problemIndex": "F",
+      "verdict": "Wrong answer",
+      "num_judged": 3
+    },
+    {
+      "team_id": "28",
+      "num_solved": 5,
+      "total_time": 342,
+      "timeSubmitted": 276,
+      "contestantName": "Let it Happen",
+      "problemIndex": "E",
+      "verdict": "Wrong answer",
+      "num_judged": 2
+    },
+    {
+      "team_id": "23",
+      "num_solved": 4,
+      "total_time": 459,
+      "timeSubmitted": 298,
+      "contestantName": "MOZ",
+      "problemIndex": "F",
+      "verdict": "Wrong answer",
+      "num_judged": 3
+    },
+    {
+      "team_id": "11",
+      "num_solved": 4,
+      "total_time": 605,
+      "timeSubmitted": 478,
+      "contestantName": "Aramis",
+      "problemIndex": "E",
+      "verdict": "Wrong answer",
+      "num_judged": 12
+    },
+    {
+      "team_id": "27",
+      "num_solved": 3,
+      "total_time": 565,
+      "timeSubmitted": 298,
+      "contestantName": "Code To infiniyu",
+      "problemIndex": "C",
+      "verdict": "Accepted",
+      "num_judged": 3
+    },
+    {
+      "team_id": "23",
+      "num_solved": 4,
+      "total_time": 459,
+      "timeSubmitted": 290,
+      "contestantName": "MOZ",
+      "problemIndex": "F",
+      "verdict": "Wrong answer",
+      "num_judged": 3
+    },
+    {
+      "team_id": "29",
+      "num_solved": 5,
+      "total_time": 399,
+      "timeSubmitted": 321,
+      "contestantName": "Cascavel",
+      "problemIndex": "D",
+      "verdict": "Wrong answer",
+      "num_judged": 4
+    },
+    {
+      "team_id": "15",
+      "num_solved": 4,
+      "total_time": 463,
+      "timeSubmitted": 342,
+      "contestantName": "Stack Overflow",
+      "problemIndex": "D",
+      "verdict": "Wrong answer",
+      "num_judged": 5
+    },
+    {
+      "team_id": "16",
+      "num_solved": 6,
+      "total_time": 720,
+      "timeSubmitted": 302,
+      "contestantName": "CamelCase",
+      "problemIndex": "F",
+      "verdict": "Accepted",
+      "num_judged": 3
+    },
+    {
+      "team_id": "11",
+      "num_solved": 4,
+      "total_time": 605,
+      "timeSubmitted": 485,
+      "contestantName": "Aramis",
+      "problemIndex": "E",
+      "verdict": "Wrong answer",
+      "num_judged": 12
+    },
+    {
+      "team_id": "28",
+      "num_solved": 5,
+      "total_time": 342,
+      "timeSubmitted": 287,
+      "contestantName": "Let it Happen",
+      "problemIndex": "E",
+      "verdict": "Wrong answer",
+      "num_judged": 2
+    },
+    {
+      "team_id": "27",
+      "num_solved": 3,
+      "total_time": 565,
+      "timeSubmitted": 307,
+      "contestantName": "Code To infiniyu",
+      "problemIndex": "C",
+      "verdict": "Accepted",
+      "num_judged": 3
+    },
+    {
+      "team_id": "25",
+      "num_solved": 4,
+      "total_time": 390,
+      "timeSubmitted": 369,
+      "contestantName": "Going to the moon",
+      "problemIndex": "D",
+      "verdict": "Wrong answer",
+      "num_judged": 6
+    },
+    {
+      "team_id": "31",
+      "num_solved": 3,
+      "total_time": 517,
+      "timeSubmitted": 270,
+      "contestantName": "code ade",
+      "problemIndex": "B",
+      "verdict": "Accepted",
+      "num_judged": 1
+    },
+    {
+      "team_id": "11",
+      "num_solved": 4,
+      "total_time": 605,
+      "timeSubmitted": 491,
+      "contestantName": "Aramis",
+      "problemIndex": "E",
+      "verdict": "Wrong answer",
+      "num_judged": 12
+    },
+    {
+      "team_id": "8",
+      "num_solved": 4,
+      "total_time": 273,
+      "timeSubmitted": 313,
+      "contestantName": "Connecting",
+      "problemIndex": "H",
+      "verdict": "Wrong answer",
+      "num_judged": 3
+    },
+    {
+      "team_id": "15",
+      "num_solved": 4,
+      "total_time": 463,
+      "timeSubmitted": 354,
+      "contestantName": "Stack Overflow",
+      "problemIndex": "D",
+      "verdict": "Wrong answer",
+      "num_judged": 5
+    },
+    {
+      "team_id": "16",
+      "num_solved": 6,
+      "total_time": 720,
+      "timeSubmitted": 295,
+      "contestantName": "CamelCase",
+      "problemIndex": "E",
+      "verdict": "Wrong answer",
+      "num_judged": 2
+    },
+    {
+      "team_id": "8",
+      "num_solved": 4,
+      "total_time": 273,
+      "timeSubmitted": 316,
+      "contestantName": "Connecting",
+      "problemIndex": "H",
+      "verdict": "Wrong answer",
+      "num_judged": 3
+    },
+
+    {
+      "team_id": "27",
+      "num_solved": 3,
+      "total_time": 565,
+      "timeSubmitted": 316,
+      "contestantName": "Code To infiniyu",
+      "problemIndex": "C",
+      "verdict": "Accepted",
+      "num_judged": 3
+    },
+    {
+      "team_id": "17",
+      "num_solved": 4,
+      "total_time": 354,
+      "timeSubmitted": 277,
+      "contestantName": "NAVI",
+      "problemIndex": "D",
+      "verdict": "Wrong answer",
+      "num_judged": 1
+    },
+
+    {
+      "team_id": "25",
+      "num_solved": 4,
+      "total_time": 390,
+      "timeSubmitted": 378,
+      "contestantName": "Going to the moon",
+      "problemIndex": "D",
+      "verdict": "Wrong answer",
+      "num_judged": 6
+    },
+
+    {
+      "team_id": "11",
+      "num_solved": 4,
+      "total_time": 605,
+      "timeSubmitted": 500,
+      "contestantName": "Aramis",
+      "problemIndex": "E",
+      "verdict": "Wrong answer",
+      "num_judged": 12
+    },
+    {
+      "team_id": "15",
+      "num_solved": 4,
+      "total_time": 463,
+      "timeSubmitted": 360,
+      "contestantName": "Stack Overflow",
+      "problemIndex": "D",
+      "verdict": "Wrong answer",
+      "num_judged": 5
+    },
+
+    {
+      "team_id": "25",
+      "num_solved": 4,
+      "total_time": 390,
+      "timeSubmitted": 384,
+      "contestantName": "Going to the moon",
+      "problemIndex": "D",
+      "verdict": "Wrong answer",
+      "num_judged": 6
+    },
+    {
+      "team_id": "12",
+      "num_solved": 6,
+      "total_time": 593,
+      "timeSubmitted": 284,
+      "contestantName": "Gods of Py",
+      "problemIndex": "F",
+      "verdict": "Wrong answer",
+      "num_judged": 1
+    },
+    {
+      "team_id": "21",
+      "num_solved": 2,
+      "total_time": 314,
+      "timeSubmitted": 345,
+      "contestantName": "کاما پیشرو برتر",
+      "problemIndex": "B",
+      "verdict": "Wrong answer",
+      "num_judged": 4
+    },
+    {
+      "team_id": "25",
+      "num_solved": 4,
+      "total_time": 390,
+      "timeSubmitted": 387,
+      "contestantName": "Going to the moon",
+      "problemIndex": "D",
+      "verdict": "Wrong answer",
+      "num_judged": 6
+    },
+    {
+      "team_id": "25",
+      "num_solved": 4,
+      "total_time": 390,
+      "timeSubmitted": 290,
+      "contestantName": "Going to the moon",
+      "problemIndex": "D",
+      "verdict": "Wrong answer",
+      "num_judged": 4
+    },
+    {
+      "team_id": "15",
+      "num_solved": 4,
+      "total_time": 463,
+      "timeSubmitted": 368,
+      "contestantName": "Stack Overflow",
+      "problemIndex": "D",
+      "verdict": "Wrong answer",
+      "num_judged": 5
+    },
+    {
+      "team_id": "31",
+      "num_solved": 3,
+      "total_time": 517,
+      "timeSubmitted": 288,
+      "contestantName": "code ade",
+      "problemIndex": "C",
+      "verdict": "Wrong answer",
+      "num_judged": 1
+    },
+    {
+      "team_id": "33",
+      "num_solved": 4,
+      "total_time": 215,
+      "timeSubmitted": 389,
+      "contestantName": "Viva La Vida",
+      "problemIndex": "D",
+      "verdict": "Wrong answer",
+      "num_judged": 6
+    },
+    {
+      "team_id": "19",
+      "num_solved": 2,
+      "total_time": 176,
+      "timeSubmitted": 329,
+      "contestantName": "Pointers",
+      "problemIndex": "C",
+      "verdict": "Wrong answer",
+      "num_judged": 3
+    },
+
+    {
+      "team_id": "14",
+      "num_solved": 6,
+      "total_time": 878,
+      "timeSubmitted": 293,
+      "contestantName": "TechTribe",
+      "problemIndex": "E",
+      "verdict": "Wrong answer",
+      "num_judged": 1
+    },
+    {
+      "team_id": "23",
+      "num_solved": 4,
+      "total_time": 459,
+      "timeSubmitted": 290,
+      "contestantName": "MOZ",
+      "problemIndex": "C",
+      "verdict": "Accepted",
+      "num_judged": 3
+    },
+    {
+      "team_id": "27",
+      "num_solved": 3,
+      "total_time": 565,
+      "timeSubmitted": 313,
+      "contestantName": "Code To infiniyu",
+      "problemIndex": "B",
+      "verdict": "Wrong answer",
+      "num_judged": 2
+    },
+    {
+      "team_id": "27",
+      "num_solved": 3,
+      "total_time": 565,
+      "timeSubmitted": 299,
+      "contestantName": "Code To infiniyu",
+      "problemIndex": "B",
+      "verdict": "Wrong answer",
+      "num_judged": 2
+    },
+    {
+      "team_id": "9",
+      "num_solved": 2,
+      "total_time": 1059,
+      "timeSubmitted": 296,
+      "contestantName": "CO Cap",
+      "problemIndex": "F",
+      "verdict": "Accepted",
+      "num_judged": 5
+    },
+    {
+      "team_id": "22",
+      "num_solved": 3,
+      "total_time": 217,
+      "timeSubmitted": 313,
+      "contestantName": "black star",
+      "problemIndex": "C",
+      "verdict": "Wrong answer",
+      "num_judged": 2
+    },
+
+    {
+      "team_id": "26",
+      "num_solved": 4,
+      "total_time": 279,
+      "timeSubmitted": 314,
+      "contestantName": "New Folder",
+      "problemIndex": "F",
+      "verdict": "Wrong answer",
+      "num_judged": 2
+    },
+    {
+      "team_id": "21",
+      "num_solved": 2,
+      "total_time": 314,
+      "timeSubmitted": 355,
+      "contestantName": "کاما پیشرو برتر",
+      "problemIndex": "B",
+      "verdict": "Wrong answer",
+      "num_judged": 4
+    },
+    {
+      "team_id": "19",
+      "num_solved": 2,
+      "total_time": 176,
+      "timeSubmitted": 335,
+      "contestantName": "Pointers",
+      "problemIndex": "C",
+      "verdict": "Wrong answer",
+      "num_judged": 3
+    },
+    {
+      "team_id": "10",
+      "num_solved": 6,
+      "total_time": 592,
+      "timeSubmitted": 295,
+      "contestantName": "The HeisenBug",
+      "problemIndex": "H",
+      "verdict": "Accepted",
+      "num_judged": 1
+    },
+    {
+      "team_id": "33",
+      "num_solved": 4,
+      "total_time": 215,
+      "timeSubmitted": 395,
+      "contestantName": "Viva La Vida",
+      "problemIndex": "D",
+      "verdict": "Wrong answer",
+      "num_judged": 6
+    },
+    {
+      "team_id": "15",
+      "num_solved": 4,
+      "total_time": 463,
+      "timeSubmitted": 299,
+      "contestantName": "Stack Overflow",
+      "problemIndex": "D",
+      "verdict": "Wrong answer",
+      "num_judged": 5
+    },
+    {
+      "team_id": "8",
+      "num_solved": 4,
+      "total_time": 273,
+      "timeSubmitted": 336,
+      "contestantName": "Connecting",
+      "problemIndex": "H",
+      "verdict": "Wrong answer",
+      "num_judged": 3
+    },
+    {
+      "team_id": "27",
+      "num_solved": 3,
+      "total_time": 565,
+      "timeSubmitted": 316,
+      "contestantName": "Code To infiniyu",
+      "problemIndex": "B",
+      "verdict": "Wrong answer",
+      "num_judged": 2
+    },
+    {
+      "team_id": "11",
+      "num_solved": 4,
+      "total_time": 605,
+      "timeSubmitted": 299,
+      "contestantName": "Aramis",
+      "problemIndex": "E",
+      "verdict": "Wrong answer",
+      "num_judged": 12
+    },
+
+    {
+      "team_id": "26",
+      "num_solved": 4,
+      "total_time": 279,
+      "timeSubmitted": 317,
+      "contestantName": "New Folder",
+      "problemIndex": "F",
+      "verdict": "Wrong answer",
+      "num_judged": 2
+    },
+    {
+      "team_id": "5",
+      "num_solved": 0,
+      "total_time": 0,
+      "timeSubmitted": 297,
+      "contestantName": "Java Drinkers",
+      "problemIndex": "J",
+      "verdict": "Wrong answer",
+      "num_judged": 0
+    },
+    {
+      "team_id": "18",
+      "num_solved": 4,
+      "total_time": 587,
+      "timeSubmitted": 299,
+      "contestantName": "Zayko",
+      "problemIndex": "D",
+      "verdict": "Wrong answer",
+      "num_judged": 2
+    },
+    {
+      "team_id": "29",
+      "num_solved": 5,
+      "total_time": 399,
+      "timeSubmitted": 357,
+      "contestantName": "Cascavel",
+      "problemIndex": "D",
+      "verdict": "Wrong answer",
+      "num_judged": 4
+    },
+    {
+      "team_id": "19",
+      "num_solved": 2,
+      "total_time": 176,
+      "timeSubmitted": 297,
+      "contestantName": "Pointers",
+      "problemIndex": "B",
+      "verdict": "Wrong answer",
+      "num_judged": 1
+    },
+    {
+      "team_id": "18",
+      "num_solved": 4,
+      "total_time": 587,
+      "timeSubmitted": 319,
+      "contestantName": "Zayko",
+      "problemIndex": "D",
+      "verdict": "Wrong answer",
+      "num_judged": 2
+    },
+    {
+      "team_id": "32",
+      "num_solved": 3,
+      "total_time": 502,
+      "timeSubmitted": 299,
+      "contestantName": "OnlyJs",
+      "problemIndex": "C",
+      "verdict": "Wrong answer",
+      "num_judged": 1
+    },
+    {
+      "team_id": "20",
+      "num_solved": 4,
+      "total_time": 226,
+      "timeSubmitted": 299,
+      "contestantName": "Scatter",
+      "problemIndex": "F",
+      "verdict": "Wrong answer",
+      "num_judged": 1
+    }
+  ]
+}

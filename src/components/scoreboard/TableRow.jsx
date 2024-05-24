@@ -171,7 +171,6 @@ class TableRow extends Component {
     }
     return false;
   }
-
   thisRowShhouldBeSelected(problems) {
     return (
       this.props.classNameForThisRow !== null &&
@@ -179,14 +178,13 @@ class TableRow extends Component {
       this.props.classNameForThisRow.length !== 0
     );
   }
-
   render() {
     let problems = this.props.problems;
 
+    let submissionsData = this.props.submissionData;
     let sizeProblem = 84.0 / this.props.numberOfProblems;
     let widthPercentage = sizeProblem + "%";
-
-    let problemColumns = problems.map(problem => {
+    let problemColumns = problems.map((problem, index) => {
       let verdict = "NoAttempted";
       let textToShowInProblem = problem.index;
 
@@ -207,33 +205,31 @@ class TableRow extends Component {
         verdict = "WrongAnswer";
         textToShowInProblem = this.numberOfTriesOnTriedProblem(problem.index);
       }
-
       return {
         key: problem.index,
         index: problem.index,
         problemStatus: verdict,
+        tries: 0,
         displayText: textToShowInProblem,
       };
     });
-
     let classNameForEachRow = "scoreboardTableGrayRow";
     if (this.thisRowShhouldBeSelected(problems) === true) {
       classNameForEachRow += this.props.classNameForThisRow;
     } else if (this.props.index % 2 !== 0) {
       classNameForEachRow = "scoreboardTableBlackRow";
     }
-
+    console.log(this.props);
     return (
       <div className={"tableRow " + classNameForEachRow} id={this.props.team.id}>
         {/*Rank*/}
         <div className="tableRow-Rank">{this.props.team.position}</div>
         {/*Name+Problems*/}
         <div className="tableRox-ContestantName">{this.props.team.name}</div>
-        <div className="tableRox-solved">{this.props.team.id}</div>
-        <div className="tableRox-time">{this.props.team.id}</div>
-
+        <div className="tableRox-solved">{this.props.team.solved}</div>
+        <div className="tableRox-time">{this.props.team.total_time}</div>
         <div className="tableRox-Problems">
-          {problemColumns.map(problemData => {
+          {problemColumns.map((problemData, i) => {
             return <ProblemBox {...problemData} />;
           })}
         </div>

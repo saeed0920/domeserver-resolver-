@@ -18,6 +18,8 @@ export type ContestData = {
     school?: String; //Name of represented university/school/institution
     iconName?: String; //Id of the icon to display for this contestant
     //For awards, we can include fields about members of the team
+    num_solved: Number;
+    total_time: Number;
   }>;
   verdicts: {
     accepted: Array<String>; //Name of the accepted verdicts
@@ -32,5 +34,6 @@ export type ContestData = {
     problemIndex: String; //Should match problems array
     verdict: String; //Should match a registered verdict
     //For IOI we can add the partial scores
+    num_judged: number;
   }>;
 };
